@@ -8,6 +8,7 @@ public class Stats<T extends Number> {
     public Stats(T... nums) {
         this.nums = nums;
     }
+
     @Override
     public String toString() {
         return Arrays.toString(nums);
