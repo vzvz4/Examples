@@ -65,7 +65,7 @@ public class App {
         try (InputStream in5 = new BufferedInputStream(new FileInputStream("src/InputOutputStreams/demo.txt"))) {
             int x;
             while ((x = in5.read()) != -1) {
-                System.out.print((char)x);
+                System.out.print((char) x);
             }
         } catch (IOException e) {
             e.printStackTrace();
@@ -120,12 +120,14 @@ public class App {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-        try (BufferedReader reader = new BufferedReader(new FileReader("src/InputOutputStreams/demo3.txt"))) {
-            String str;
+        try (BufferedReader reader = new BufferedReader(new FileReader(
+                "src/InputOutputStreams/demo2.txt"))) {
+            String str = "";
+            StringBuffer st2 = new StringBuffer();
             while ((str = reader.readLine()) != null) {
-                System.out.println(str);
+                st2.append(str);
             }
+            System.out.println(st2);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -138,4 +140,5 @@ public class App {
             e.printStackTrace();
         }
     }
+
 }

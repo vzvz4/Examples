@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="176936f8-be86-4f87-90b4-498953b16176" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="176936f8-be86-4f87-90b4-498953b16176" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/META-INF/Sorting Methods.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InputOutputStreams/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InputOutputStreams/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InputOutputStreams/demo2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/InputOutputStreams/demo2.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,10 +27,15 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/com/company" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1W8dt0iXO2h19rlSqTjYnukTlmi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -34,7 +44,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="C:/SQLite/sqlite-jdbc-3.30.1.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -59,19 +69,7 @@
       <recent name="C:\Users\vorobevva\IdeaProjects\examples\src\GameXOwithGUI\res" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.App (4)">
+  <component name="RunManager" selected="Application.App (3)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.App" />
       <module name="Sorting Methods" />
@@ -151,6 +149,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.App" />
       <item itemvalue="Application.App (1)" />
       <item itemvalue="Application.App (2)" />
       <item itemvalue="Application.App (3)" />
@@ -159,9 +158,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (3)" />
         <item itemvalue="Application.App (4)" />
         <item itemvalue="Application.App2" />
-        <item itemvalue="Application.App (3)" />
         <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (1)" />
       </list>
@@ -217,6 +216,40 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="некоторая несущественная корректировка" />
     <option name="LAST_COMMIT_MESSAGE" value="некоторая несущественная корректировка" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1131" height="161" key="GridCell.Tab.0.bottom" timestamp="1585386245478">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1131" height="161" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585386245478" />
+    <state width="1131" height="161" key="GridCell.Tab.0.center" timestamp="1585386245478">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1131" height="161" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1585386245478" />
+    <state width="1131" height="161" key="GridCell.Tab.0.left" timestamp="1585386245478">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1131" height="161" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1585386245478" />
+    <state width="1131" height="161" key="GridCell.Tab.0.right" timestamp="1585386245478">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1131" height="161" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1585386245478" />
+    <state width="1131" height="224" key="GridCell.Tab.1.bottom" timestamp="1585386235681">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1131" height="224" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585386235681" />
+    <state width="1131" height="224" key="GridCell.Tab.1.center" timestamp="1585386235681">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1131" height="224" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1585386235681" />
+    <state width="1131" height="224" key="GridCell.Tab.1.left" timestamp="1585386235681">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1131" height="224" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1585386235681" />
+    <state width="1131" height="224" key="GridCell.Tab.1.right" timestamp="1585386235681">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1131" height="224" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1585386235681" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -325,11 +358,6 @@
           <url>file://$PROJECT_DIR$/src/CollectionsExample/ListsExamples/ArrayListE.java</url>
           <line>9</line>
           <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InputOutputStreams/App.java</url>
-          <line>64</line>
-          <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/Polimorphism/BadExampleOf/Dumb.java</url>
