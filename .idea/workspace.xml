@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="176936f8-be86-4f87-90b4-498953b16176" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/META-INF/Sorting Methods.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InputOutputStreams/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InputOutputStreams/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InputOutputStreams/demo2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/InputOutputStreams/demo2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting Methods.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Examples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BookHomeWorks/Chapter5/ATasks1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BookHomeWorks/Chapter5/ATasks1/NotePad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BookHomeWorks/Chapter5/ATasks2/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BookHomeWorks/Chapter5/ATasks2/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsMethodAndHash/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EqualsAndHashCode/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsMethodAndHash/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EqualsAndHashCode/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsMethodAndHash/ClassA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsMethodAndHash/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsMethodAndHash/Empty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/Peoples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RelayLogic/Programm.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +80,7 @@
   <component name="RunManager" selected="Application.App (3)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.App" />
-      <module name="Sorting Methods" />
+      <module name="Examples" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Arrays.*" />
@@ -85,7 +93,7 @@
     </configuration>
     <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test.App" />
-      <module name="Sorting Methods" />
+      <module name="Examples" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Test.*" />
@@ -98,7 +106,7 @@
     </configuration>
     <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InputOutputStreams.App" />
-      <module name="Sorting Methods" />
+      <module name="Examples" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="InputOutputStreams.*" />
@@ -111,7 +119,7 @@
     </configuration>
     <configuration name="App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InputOutputStreams.Serializable.App" />
-      <module name="Sorting Methods" />
+      <module name="Examples" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="InputOutputStreams.Serializable.*" />
@@ -124,7 +132,7 @@
     </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test.App" />
-      <module name="Sorting Methods" />
+      <module name="Examples" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Test.*" />
@@ -137,13 +145,60 @@
     </configuration>
     <configuration name="App2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InputOutputStreams.Serializable.App2" />
-      <module name="Sorting Methods" />
+      <module name="Examples" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="InputOutputStreams.Serializable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Examples" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Examples" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -187,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578621354925</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update">
+      <created>1585395476009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585395476009</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -215,41 +277,46 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="некоторая несущественная корректировка" />
-    <option name="LAST_COMMIT_MESSAGE" value="некоторая несущественная корректировка" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1131" height="161" key="GridCell.Tab.0.bottom" timestamp="1585386245478">
+    <state x="271" y="0" key="CommitChangelistDialog2" timestamp="1585395473779">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1131" height="161" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585386245478" />
-    <state width="1131" height="161" key="GridCell.Tab.0.center" timestamp="1585386245478">
+    <state x="271" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1585395473779" />
+    <state width="1131" height="224" key="GridCell.Tab.0.bottom" timestamp="1585405232079">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1131" height="161" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1585386245478" />
-    <state width="1131" height="161" key="GridCell.Tab.0.left" timestamp="1585386245478">
+    <state width="1131" height="224" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585405232079" />
+    <state width="1131" height="224" key="GridCell.Tab.0.center" timestamp="1585405232078">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1131" height="161" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1585386245478" />
-    <state width="1131" height="161" key="GridCell.Tab.0.right" timestamp="1585386245478">
+    <state width="1131" height="224" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1585405232078" />
+    <state width="1131" height="224" key="GridCell.Tab.0.left" timestamp="1585405232078">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1131" height="161" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1585386245478" />
-    <state width="1131" height="224" key="GridCell.Tab.1.bottom" timestamp="1585386235681">
+    <state width="1131" height="224" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1585405232078" />
+    <state width="1131" height="224" key="GridCell.Tab.0.right" timestamp="1585405232079">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1131" height="224" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585386235681" />
-    <state width="1131" height="224" key="GridCell.Tab.1.center" timestamp="1585386235681">
+    <state width="1131" height="224" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1585405232079" />
+    <state width="1131" height="224" key="GridCell.Tab.1.bottom" timestamp="1585405232079">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1131" height="224" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1585386235681" />
-    <state width="1131" height="224" key="GridCell.Tab.1.left" timestamp="1585386235681">
+    <state width="1131" height="224" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585405232079" />
+    <state width="1131" height="224" key="GridCell.Tab.1.center" timestamp="1585405232079">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1131" height="224" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1585386235681" />
-    <state width="1131" height="224" key="GridCell.Tab.1.right" timestamp="1585386235681">
+    <state width="1131" height="224" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1585405232079" />
+    <state width="1131" height="224" key="GridCell.Tab.1.left" timestamp="1585405232079">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1131" height="224" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1585386235681" />
+    <state width="1131" height="224" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1585405232079" />
+    <state width="1131" height="224" key="GridCell.Tab.1.right" timestamp="1585405232079">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1131" height="224" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1585405232079" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -338,11 +405,6 @@
           <url>file://$PROJECT_DIR$/src/BookHomeWorks/Chapter5/ATasks2/Payment.java</url>
           <line>51</line>
           <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/EqualsMethodAndHash/Cat.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MultiThreading/App.java</url>
