@@ -2,7 +2,7 @@ package EqualsAndHashCode;
 
 import java.util.Objects;
 
-public class Cat implements Comparable {
+public class Cat implements Comparable<Cat> {
     private String name;
     private int age;
 
@@ -20,8 +20,9 @@ public class Cat implements Comparable {
         return name + " : " + age;
     }
 
-    public int compareTo(Object o) {
-        return this.age - ((Cat) o).age;
+    @Override
+    public int compareTo(Cat o) {
+        return this.name.compareTo(o.name);
     }
 
 

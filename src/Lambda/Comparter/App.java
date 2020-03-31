@@ -7,6 +7,8 @@ import java.util.List;
 public class App {
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
+        list.add("ba");
+        list.add("ab");
         list.add("wwe");
         list.add("hello");
         list.add("goodbye");
@@ -25,6 +27,10 @@ public class App {
 //            }
 //        });
 
+        // сорт в алфавитном порядке
+        list.sort(Comparator.comparing(String::intern));
+
+        // сорт по длине слова
         list.sort(Comparator.comparingInt(String::length));
 
         for (String s: list) {

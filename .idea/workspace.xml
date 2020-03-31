@@ -2,19 +2,147 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="176936f8-be86-4f87-90b4-498953b16176" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CollectionsExample/Iterator/MyIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionsExample/QueE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionsExample/StackE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparatorComparable/MyComparableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparatorComparable/MyComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting Methods.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Examples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BookHomeWorks/Chapter5/ATasks1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BookHomeWorks/Chapter5/ATasks1/NotePad.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BookHomeWorks/Chapter5/ATasks2/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BookHomeWorks/Chapter5/ATasks2/Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EqualsMethodAndHash/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EqualsAndHashCode/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EqualsMethodAndHash/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EqualsAndHashCode/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EqualsMethodAndHash/ClassA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EqualsMethodAndHash/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EqualsMethodAndHash/Empty.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork/Peoples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RelayLogic/Programm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/AnonymousClassExample/AbleToEat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/AnonymousClassExample/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/AnonymousClassExample/OtherAnimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/AnonymousClassExample/Test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/AnonymousClassExample/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/BookHomeWorks/Chapter5/ATasks1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/BookHomeWorks/Chapter5/ATasks1/NotePad$Date.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/BookHomeWorks/Chapter5/ATasks1/NotePad$Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/BookHomeWorks/Chapter5/ATasks1/NotePad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/BookHomeWorks/Chapter5/ATasks2/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/BookHomeWorks/Chapter5/ATasks2/Payment$Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/BookHomeWorks/Chapter5/ATasks2/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/CollectionsExample/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/CollectionsExample/DictionaryBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/CollectionsExample/ListsExamples/ArrayListE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/CollectionsExample/ListsExamples/LinkedListE$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/CollectionsExample/ListsExamples/LinkedListE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/CollectionsExample/ListsExamples/MapE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/CollectionsExample/ListsExamples/SetE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/CollectionsExample/TelephoneList/Directory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/CollectionsExample/TelephoneList/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/CollectionsExample/TelephoneList/TelephoneList$Users.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/CollectionsExample/TelephoneList/TelephoneList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/CollectionsExample/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/DictionaryBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/EnumExample/AnimalEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/EnumExample/Season.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/EnumExample/Test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/EnumExample/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/EqualsMethodAndHash/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/EqualsMethodAndHash/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/EqualsMethodAndHash/ClassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/EqualsMethodAndHash/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/EqualsMethodAndHash/Empty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/ExtendsExampleShapeBox/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/ExtendsExampleShapeBox/Cube.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/ExtendsExampleShapeBox/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/ExtendsExampleShapeBox/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/ExtendsExampleShapeBox/UsingInterface/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/ExtendsExampleShapeBox/UsingInterface/Cube.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/ExtendsExampleShapeBox/UsingInterface/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/ExtendsExampleShapeBox/UsingInterface/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/Fibonacci/Fib.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/HabrRiddles/Ves.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/HabrRiddles/WeigthApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/HomeWork/Peoples$Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/HomeWork/Peoples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InitializingBlocks/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InnerClassesExample/Car/ElectroCar$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InnerClassesExample/Car/ElectroCar$1SomeClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InnerClassesExample/Car/ElectroCar$Battery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InnerClassesExample/Car/ElectroCar$Motor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InnerClassesExample/Car/ElectroCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InnerClassesExample/Car/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InnerClassesExample/FormattedPrintWithInnerClass/App$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InnerClassesExample/FormattedPrintWithInnerClass/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InnerClassesExample/FormattedPrintWithInnerClass/Human$Students.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InnerClassesExample/FormattedPrintWithInnerClass/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InnerClassesExample/Student/AnySession.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InnerClassesExample/Student/Student$ExamResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InnerClassesExample/Student/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InnerClassesExample/Test/Person$Clothes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InnerClassesExample/Test/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InterfacesExample/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InterfacesExample/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InterfacesExample/Info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InterfacesExample/OOPHomeWorks/Action.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InterfacesExample/OOPHomeWorks/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InterfacesExample/OOPHomeWorks/CourseRunTrack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InterfacesExample/OOPHomeWorks/CourseWall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InterfacesExample/OOPHomeWorks/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InterfacesExample/OOPHomeWorks/Robots.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/InterfacesExample/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/JavaException/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/JavaException/DivideByZeroException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/Lambda/Comparter/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/Lambda/LambdaExample/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/Lambda/LambdaExample/Executable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/Lambda/LambdaExample/TestLambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/App$MyRunnableClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/App$MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/ArrayCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/HomeWork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/NewApp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/NewApp$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/NewApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/PatternProducer_Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/Synhronized/Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/Synhronized/Example2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/Synhronized/Example3Static.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/Synhronized/SynchronizedExam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/Synhronized/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/ThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/WNN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/WaitNNotify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/MultiThreading/Work.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/Polimorphism/BadExampleOf/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/Polimorphism/BadExampleOf/Dumb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/Polimorphism/BadExampleOf/Dumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/Polimorphism/CardAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/Polimorphism/Coil/Coils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/Polimorphism/CreditApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/Polimorphism/CreditCardAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/Regex/PatterMatcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/Regex/RegularExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/Regex/Split.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/RelayLogic/Programm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/SolveMath/Solver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/SortingMethods/SortingMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/StringsWork/BufferedClasses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/StringsWork/Lesson7_Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/TemperatureConverter/BaseConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/TemperatureConverter/CelsiusConvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/TemperatureConverter/FahrenheitConvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/TemperatureConverter/KelvinConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/TemperatureConverter/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/WraperString/Runner$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/WraperString/Runner$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/WraperString/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/WraperString/WrapperString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting Methods/libGDXExample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/DictionaryBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/ListsExamples/ArrayListE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionsExample/ArrayListE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/ListsExamples/LinkedListE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionsExample/LinkedListE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/ListsExamples/MapE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionsExample/MapE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/ListsExamples/SetE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionsExample/SetE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/TelephoneList/Directory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/TelephoneList/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/TelephoneList/TelephoneList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsAndHashCode/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EqualsAndHashCode/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/Comparter/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda/Comparter/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +205,13 @@
       <recent name="C:\Users\vorobevva\IdeaProjects\examples\src\GameXOwithGUI\res" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App (3)">
-    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.App" />
+  <component name="RunManager" selected="Application.MyIterator">
+    <configuration name="MyComparableClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComparatorComparable.MyComparableClass" />
       <module name="Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="ComparatorComparable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.App" />
+    <configuration name="MyComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComparatorComparable.MyComparator" />
       <module name="Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="ComparatorComparable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InputOutputStreams.App" />
+    <configuration name="MyIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionsExample.Iterator.MyIterator" />
       <module name="Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InputOutputStreams.*" />
+          <option name="PATTERN" value="CollectionsExample.Iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InputOutputStreams.Serializable.App" />
+    <configuration name="QueE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionsExample.QueE" />
       <module name="Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InputOutputStreams.Serializable.*" />
+          <option name="PATTERN" value="CollectionsExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,94 +258,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.App" />
+    <configuration name="StackE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionsExample.StackE" />
       <module name="Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="CollectionsExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InputOutputStreams.Serializable.App2" />
-      <module name="Examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InputOutputStreams.Serializable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="Examples" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="Examples" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.App" />
-      <item itemvalue="Application.App (1)" />
-      <item itemvalue="Application.App (2)" />
-      <item itemvalue="Application.App (3)" />
-      <item itemvalue="Application.App (4)" />
-      <item itemvalue="Application.App2" />
+      <item itemvalue="Application.MyComparator" />
+      <item itemvalue="Application.MyComparableClass" />
+      <item itemvalue="Application.StackE" />
+      <item itemvalue="Application.QueE" />
+      <item itemvalue="Application.MyIterator" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App (3)" />
-        <item itemvalue="Application.App (4)" />
-        <item itemvalue="Application.App2" />
-        <item itemvalue="Application.App (2)" />
-        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.MyIterator" />
+        <item itemvalue="Application.QueE" />
+        <item itemvalue="Application.StackE" />
+        <item itemvalue="Application.MyComparableClass" />
+        <item itemvalue="Application.MyComparator" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585395476009</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update hash equals">
+      <created>1585587493819</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585587493819</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -278,29 +352,34 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="некоторая несущественная корректировка" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Update hash equals" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update hash equals" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="271" y="0" key="CommitChangelistDialog2" timestamp="1585395473779">
+    <state x="574" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1585665217615">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="271" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1585395473779" />
-    <state width="1131" height="224" key="GridCell.Tab.0.bottom" timestamp="1585405232079">
+    <state x="574" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1585665217615" />
+    <state x="271" y="0" key="CommitChangelistDialog2" timestamp="1585587492154">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1131" height="224" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585405232079" />
-    <state width="1131" height="224" key="GridCell.Tab.0.center" timestamp="1585405232078">
+    <state x="271" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1585587492154" />
+    <state width="1179" height="161" key="GridCell.Tab.0.bottom" timestamp="1585671549893">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1131" height="224" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1585405232078" />
-    <state width="1131" height="224" key="GridCell.Tab.0.left" timestamp="1585405232078">
+    <state width="1179" height="161" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585671549893" />
+    <state width="1179" height="161" key="GridCell.Tab.0.center" timestamp="1585671549892">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1131" height="224" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1585405232078" />
-    <state width="1131" height="224" key="GridCell.Tab.0.right" timestamp="1585405232079">
+    <state width="1179" height="161" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1585671549892" />
+    <state width="1179" height="161" key="GridCell.Tab.0.left" timestamp="1585671549892">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1131" height="224" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1585405232079" />
+    <state width="1179" height="161" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1585671549892" />
+    <state width="1179" height="161" key="GridCell.Tab.0.right" timestamp="1585671549892">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1179" height="161" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1585671549892" />
     <state width="1131" height="224" key="GridCell.Tab.1.bottom" timestamp="1585405232079">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -417,7 +496,7 @@
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CollectionsExample/ListsExamples/ArrayListE.java</url>
+          <url>file://$PROJECT_DIR$/src/CollectionsExample/ArrayListE.java</url>
           <line>9</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
