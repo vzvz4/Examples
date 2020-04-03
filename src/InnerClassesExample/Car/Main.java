@@ -7,5 +7,8 @@ public class Main {
         car.start();
 
         ElectroCar.Battery battery = new ElectroCar.Battery();
+
+        OtherExample ot = new OtherExample();
+        //нет доступа к вложенным приватным классам
     }
 }
