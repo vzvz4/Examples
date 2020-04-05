@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="176936f8-be86-4f87-90b4-498953b16176" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CollectionsExample/Java-collection-framework-hierarchy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/content_pasted_image_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InnerClassesExample/Car/OtherExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiThreading/CountDownLatchEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiThreading/CyclicBarrierEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiThreading/LockEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiThreading/ReadWriteLockEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiThreading/SemaphoreEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/CallableFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/InterruptedExceptionEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/ReentrantLockEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClassesExample/Car/ElectroCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InnerClassesExample/Car/ElectroCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClassesExample/Car/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InnerClassesExample/Car/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClassesExample/FormattedPrintWithInnerClass/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClassesExample/FormattedPrintWithInnerClass/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClassesExample/Student/AnySession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClassesExample/Student/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClassesExample/Test/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MultiThreading/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MultiThreading/ArrayCopy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/NewApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiThreading/DeadLockEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,9 +69,9 @@
       <recent name="C:\Users\vorobevva\IdeaProjects\examples\src\GameXOwithGUI\res" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LockEx">
-    <configuration name="CountDownLatchEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.CountDownLatchEx" />
+  <component name="RunManager" selected="Application.CallableFuture">
+    <configuration name="CallableFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading.CallableFuture" />
       <module name="Examples" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +83,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CyclicBarrierEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.CyclicBarrierEx" />
+    <configuration name="DeadLockEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading.DeadLockEx" />
+      <module name="Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterruptedExceptionEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading.InterruptedExceptionEx" />
       <module name="Examples" />
       <extension name="coverage">
         <pattern>
@@ -122,21 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionsExample.Iterator.MyIterator" />
-      <module name="Examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CollectionsExample.Iterator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SemaphoreEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.SemaphoreEx" />
+    <configuration name="ReentrantLockEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading.ReentrantLockEx" />
       <module name="Examples" />
       <extension name="coverage">
         <pattern>
@@ -149,19 +136,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyIterator" />
-      <item itemvalue="Application.SemaphoreEx" />
-      <item itemvalue="Application.CountDownLatchEx" />
-      <item itemvalue="Application.CyclicBarrierEx" />
       <item itemvalue="Application.LockEx" />
+      <item itemvalue="Application.ReentrantLockEx" />
+      <item itemvalue="Application.DeadLockEx" />
+      <item itemvalue="Application.InterruptedExceptionEx" />
+      <item itemvalue="Application.CallableFuture" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CallableFuture" />
+        <item itemvalue="Application.InterruptedExceptionEx" />
+        <item itemvalue="Application.DeadLockEx" />
+        <item itemvalue="Application.ReentrantLockEx" />
         <item itemvalue="Application.LockEx" />
-        <item itemvalue="Application.CyclicBarrierEx" />
-        <item itemvalue="Application.CountDownLatchEx" />
-        <item itemvalue="Application.SemaphoreEx" />
-        <item itemvalue="Application.MyIterator" />
       </list>
     </recent_temporary>
   </component>
@@ -241,46 +228,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="Refactor and update collections example (completed version)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1585925863168">
+    <state x="574" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1586074900058">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="574" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1585925863168" />
+    <state x="574" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1586074900058" />
     <state x="271" y="0" key="CommitChangelistDialog2" timestamp="1585672289006">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="271" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1585672289006" />
-    <state width="1179" height="177" key="GridCell.Tab.0.bottom" timestamp="1585924472927">
+    <state width="1179" height="177" key="GridCell.Tab.0.bottom" timestamp="1586075597153">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1179" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585924472927" />
-    <state width="1179" height="177" key="GridCell.Tab.0.center" timestamp="1585924472926">
+    <state width="1179" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586075597153" />
+    <state width="1179" height="177" key="GridCell.Tab.0.center" timestamp="1586075597153">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1179" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1585924472926" />
-    <state width="1179" height="177" key="GridCell.Tab.0.left" timestamp="1585924472926">
+    <state width="1179" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586075597153" />
+    <state width="1179" height="177" key="GridCell.Tab.0.left" timestamp="1586075597153">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1179" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1585924472926" />
-    <state width="1179" height="177" key="GridCell.Tab.0.right" timestamp="1585924472927">
+    <state width="1179" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586075597153" />
+    <state width="1179" height="177" key="GridCell.Tab.0.right" timestamp="1586075597153">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1179" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1585924472927" />
-    <state width="1179" height="224" key="GridCell.Tab.1.bottom" timestamp="1585924448868">
+    <state width="1179" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586075597153" />
+    <state width="1179" height="224" key="GridCell.Tab.1.bottom" timestamp="1586075296231">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1179" height="224" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585924448868" />
-    <state width="1179" height="224" key="GridCell.Tab.1.center" timestamp="1585924448868">
+    <state width="1179" height="224" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586075296231" />
+    <state width="1179" height="224" key="GridCell.Tab.1.center" timestamp="1586075296231">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1179" height="224" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1585924448868" />
-    <state width="1179" height="224" key="GridCell.Tab.1.left" timestamp="1585924448868">
+    <state width="1179" height="224" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1586075296231" />
+    <state width="1179" height="224" key="GridCell.Tab.1.left" timestamp="1586075296230">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1179" height="224" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1585924448868" />
-    <state width="1179" height="224" key="GridCell.Tab.1.right" timestamp="1585924448868">
+    <state width="1179" height="224" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1586075296230" />
+    <state width="1179" height="224" key="GridCell.Tab.1.right" timestamp="1586075296231">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1179" height="224" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1585924448868" />
+    <state width="1179" height="224" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1586075296231" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -379,11 +366,6 @@
           <url>file://$PROJECT_DIR$/src/CollectionsExample/ArrayListE.java</url>
           <line>9</line>
           <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MultiThreading/SemaphoreEx.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MultiThreading/CountDownLatchEx.java</url>
