@@ -1,28 +1,31 @@
 package Test;
 
 
+import java.util.concurrent.ArrayBlockingQueue;
+import java.util.concurrent.BlockingQueue;
+
 public class App {
 
     public static void main(String[] args) {
-        String str = "/signUp user";
-        System.out.println(str.substring(8));
-
-        String i = "";
-        String str1 = " жду указаний ";
-        String b = str1;
-                b = b.concat(str1);
-
-        System.out.println(i.hashCode()+" "+b.hashCode());
-        System.out.println(str1.hashCode());
-
-        i.concat("Я джун").concat(str1);
-        i.concat("я мидл ").concat(str1);
-        b = i;
-        System.out.println(b.hashCode());
-        b = b.concat(i).concat(" я сеньер").concat(str1);
-        System.out.println(i + b);
-
-        byte a = -1;
-        System.out.println((char) a);
+        BlockingQueue<String> str = new ArrayBlockingQueue<>(1);
+        new Thread(() -> {
+            try {
+                for (int i = 0; i < 10; i++) {
+                    str.put(Thread.currentThread() + " " + i);
+                    Thread.sleep(1000);
+                }
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }).start();
+        new Thread(() -> {
+            try {
+                for (int i = 0; i < 10; i++) {
+                    System.out.println(str.take());
+                }
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }).start();
     }
 }

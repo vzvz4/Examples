@@ -1,3 +1,5 @@
+package WraperString;
+
 public class DictionaryBuilder {
     public static void buildDictionary(String text) {
         text = text.toLowerCase();
