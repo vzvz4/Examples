@@ -30,5 +30,8 @@ public class MapE {
         for (Map.Entry<Integer, String> entry : map.entrySet()) {
             System.out.println(entry.getKey() + " : " + entry.getValue());
         }
+
+        //lambda
+        map.forEach((key, value) -> System.out.println(key + ": " + value));
     }
 }

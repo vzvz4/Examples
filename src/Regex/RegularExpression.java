@@ -28,7 +28,8 @@ public class RegularExpression {
                 \\w - одна буква (\\w = [a-zA-Z])
 
          */
-
+        String str1 = "132";
+        String[] vv = str1.split("(?=[0-9])"); // vv = [1,2,3]
         String a = "-122";
         String b = "122";
         String c = "+122";

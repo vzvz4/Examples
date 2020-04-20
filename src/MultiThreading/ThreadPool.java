@@ -37,8 +37,13 @@ class Work implements Runnable {
 
     @Override
     public void run() {
-            for (int i = 0; i < 10000; i++) {
+            for (int i = 0; i < 17; i++) {
                 eval();
+                try {
+                    Thread.sleep(1000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
             }
             System.out.println("work " + id + " completed");
     }

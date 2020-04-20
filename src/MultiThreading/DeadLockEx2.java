@@ -2,6 +2,13 @@ package MultiThreading;
 
 public class DeadLockEx2 {
 
+//    "Thread-1":
+//    waiting to lock monitor 0x000000000330c0d8 (object 0x00000000d5e16808, a Pck.Pc.Ext$Friends),
+//    which is held by "Thread-0"
+//            "Thread-0":
+//    waiting to lock monitor 0x000000001b806038 (object 0x00000000d5e16848, a Pck.Pc.Ext$Friends),
+//    which is held by "Thread-1"
+
     static class Friend {
         private final String name;
         public Friend(String name) {
