@@ -1,4 +1,4 @@
-package Patterns.SingletonEx;
+package Patterns.Singleton;
 
 public class App {
     public static void main(String[] args) {

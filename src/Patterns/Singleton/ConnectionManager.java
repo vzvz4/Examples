@@ -1,4 +1,4 @@
-package Patterns.SingletonEx;
+package Patterns.Singleton;
 import java.util.ArrayList;
 import java.util.List;
 

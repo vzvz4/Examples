@@ -1,4 +1,4 @@
-package Patterns.StateEx;
+package Patterns.State;
 
 public class AlertShip {
     void doWarn() {
