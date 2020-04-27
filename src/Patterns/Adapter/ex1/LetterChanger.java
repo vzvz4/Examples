@@ -1,6 +1,4 @@
-package Patterns.Adapter;
-
-import java.util.Arrays;
+package Patterns.Adapter.ex1;
 
 public class LetterChanger implements Processor{
     

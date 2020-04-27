@@ -1,4 +1,15 @@
-package InnerClassesExample.Car;
+package InnerClassesExample;
+
+//Вложенные классы - Nested (static)
+
+//Внутренние классы - Inner (non static)
+
+//Локальные внутренние классы (вложены в область видимости метода);
+
+//Внутренний класс (иннер) скрыто харнит ссылку на объект внешнего класса, создать объект
+// иннер класса можно только через объект внешнего класса.
+
+//Для создания объекта вложенного класса (нестед) не нужен объект внешнего класса
 
 public class OtherExample {
     private static int a = 1;
@@ -17,6 +28,10 @@ public class OtherExample {
         NestedClass n = new NestedClass();
         n.nB = 3;
         n.nM();
+        //способ созания объекта иннер (нестатического) класса
+        OtherExample.Inn in = new OtherExample().new Inn();
+        //способ создания объекта нестед (статического) класса
+        OtherExample.Nes nes = new OtherExample.Nes();
         //InnerClass i = new InnerClass(); - ошибка, нельзя обратиться из статического метода
 
     }

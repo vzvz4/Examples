@@ -1,4 +1,4 @@
-package Patterns.Adapter;
+package Patterns.Adapter.ex1;
 
 public class Adapter {
 
