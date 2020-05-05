@@ -2,28 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="176936f8-be86-4f87-90b4-498953b16176" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InnerClassesExample/InnNes.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InnerClassesExample/LocalInner/Om.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InnerClassesExample/LocalInner/OpenI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Adapter/ex2/AdapterRandomNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Adapter/ex2/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Adapter/ex2/RandomNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/CallBack/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/CallBack/SomeClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Factory/Fabric.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Factory/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Factory/Impl1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Factory/Impl1Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Factory/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Factory/ServiceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PostgresTestExample/PostgresTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PostgresTestExample/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PostgresTestExample/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PostgresTestExample/target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex2/ClassAnon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex2/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/ExtendFromInner/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/ExtendFromInner/K.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/ExtendFromInner/M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/ExtendFromInner/N.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/InnerClassesExample/InnerClasses.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/LocalInner/Ex2/ClassLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/LocalInner/Ex2/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/LocalInner/LocalAnon.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/Resume.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Factory/Ex2/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Factory/Ex2/buttons/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Factory/Ex2/buttons/HtmlButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Factory/Ex2/buttons/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Factory/Ex2/dialog/Dialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Factory/Ex2/dialog/HtmlDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Factory/Ex2/dialog/WindowsDialog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClassesExample/Car/ElectroCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InnerClassesExample/Car/ElectroCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClassesExample/Car/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InnerClassesExample/Car/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClassesExample/Car/OtherExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InnerClassesExample/OtherExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/Adapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/Adapter/ex1/Adapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/Adapter/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/Adapter/ex1/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/Adapter/LetterChanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/Adapter/ex1/LetterChanger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/Adapter/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/Adapter/ex1/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnonymousClassExample/AbleToEat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex1/AbleToEat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnonymousClassExample/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex1/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnonymousClassExample/OtherAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex1/OtherAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnonymousClassExample/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EnumExample/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EnumExample/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerClassesExample/InnNes.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/InnerClassesExample/InnNes.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerClassesExample/LocalInner/Om.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/LocalInner/Ex1/Om.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerClassesExample/LocalInner/OpenI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/LocalInner/Ex1/OpenI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerClassesExample/OtherExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/InnerClassesExample/OtherExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerClassesExample/StaticClass.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/InnerClassesExample/StaticClass.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/Factory/Ex1/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/Impl1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/Factory/Ex1/Impl1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/Impl1Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/Factory/Ex1/Impl1Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/Factory/Ex1/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/ServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/Factory/Ex1/ServiceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +52,8 @@
       <list>
         <option value="Enum" />
         <option value="JUnit5 Test Class" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -56,16 +73,17 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/InnerClassesExample/LocalInner" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/InnerClassesExample/ExtendFromInner" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -75,27 +93,28 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\InnerNestedLocalClassesEx" />
+      <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\InnerNestedLocalClassesEx\LocalInner" />
       <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\InnerClassesExample" />
-      <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\Patterns\Fabric" />
-      <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\Patterns\Strategy" />
-      <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\Patterns\Adapter" />
-      <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\Polimorphism" />
+      <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\Patterns\Factory" />
+      <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\Patterns\Factory\1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Patterns.Adapter" />
       <recent name="OOPHomeWorks" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\InnerClassesExample\ExtendFromInner" />
+      <recent name="C:\Users\Slava\Documents\GitHub\Examples" />
       <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\InnerClassesExample\LocalInner" />
       <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\Polimorphism" />
       <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\CollectionsExample\MyVersionArrayList" />
-      <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\Log4j2Ex" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="JDBC_SQLite" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Factory">
+  <component name="RunManager" selected="Application.App (2)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Patterns.Adapter.ex2.App" />
       <module name="Examples" />
@@ -109,12 +128,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polimorphism.BadExampleOf.App" />
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.App" />
       <module name="Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Polimorphism.BadExampleOf.*" />
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InnerNestedLocalClassesEx.ExtendFromInner.App" />
+      <module name="Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InnerNestedLocalClassesEx.ExtendFromInner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polimorphism.D" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Factory.Ex2.Demo" />
       <module name="Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Polimorphism.*" />
+          <option name="PATTERN" value="Patterns.Factory.Ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +194,11 @@
       </method>
     </configuration>
     <configuration name="Factory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.Factory.Factory" />
+      <option name="MAIN_CLASS_NAME" value="Patterns.Factory.Ex1.Factory" />
       <module name="Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Patterns.Factory.*" />
+          <option name="PATTERN" value="Patterns.Factory.Ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,19 +207,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.App" />
-      <item itemvalue="Application.D" />
       <item itemvalue="Application.App (1)" />
+      <item itemvalue="Application.App (2)" />
       <item itemvalue="Application.Factory" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.App" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Factory" />
         <item itemvalue="Application.App (1)" />
-        <item itemvalue="Application.D" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
   </component>
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
@@ -268,10 +305,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="371" y="157" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1587397300489" />
-    <state x="574" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1587881810241">
+    <state x="574" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1588527866260">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="574" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1587881810241" />
+    <state x="574" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1588527866260" />
     <state x="540" y="89" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1586261479378">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -280,62 +317,66 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="695" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1587538853049" />
+    <state x="423" y="227" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588528369823">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="423" y="227" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1588528369823" />
     <state x="271" y="0" key="CommitChangelistDialog2" timestamp="1585672289006">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="271" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1585672289006" />
-    <state x="416" y="136" key="FileChooserDialogImpl" timestamp="1586261478187">
+    <state x="416" y="136" key="FileChooserDialogImpl" timestamp="1588591030741">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="416" y="136" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1586261478187" />
-    <state width="960" height="153" key="GridCell.Tab.0.bottom" timestamp="1587915601483">
+    <state x="416" y="136" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1588591030741" />
+    <state width="964" height="223" key="GridCell.Tab.0.bottom" timestamp="1588682158893">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="960" height="153" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587915601483" />
-    <state width="960" height="153" key="GridCell.Tab.0.center" timestamp="1587915601482">
+    <state width="964" height="223" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588682158893" />
+    <state width="964" height="223" key="GridCell.Tab.0.center" timestamp="1588682158892">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="960" height="153" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1587915601482" />
-    <state width="960" height="153" key="GridCell.Tab.0.left" timestamp="1587915601482">
+    <state width="964" height="223" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588682158892" />
+    <state width="964" height="223" key="GridCell.Tab.0.left" timestamp="1588682158892">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="960" height="153" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1587915601482" />
-    <state width="960" height="153" key="GridCell.Tab.0.right" timestamp="1587915601482">
+    <state width="964" height="223" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588682158892" />
+    <state width="964" height="223" key="GridCell.Tab.0.right" timestamp="1588682158893">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="960" height="153" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1587915601482" />
-    <state width="1028" height="178" key="GridCell.Tab.1.bottom" timestamp="1587658507497">
+    <state width="964" height="223" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588682158893" />
+    <state width="964" height="223" key="GridCell.Tab.1.bottom" timestamp="1588682158893">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1028" height="178" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587658507497" />
-    <state width="1028" height="178" key="GridCell.Tab.1.center" timestamp="1587658507497">
+    <state width="964" height="223" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588682158893" />
+    <state width="964" height="223" key="GridCell.Tab.1.center" timestamp="1588682158893">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1028" height="178" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1587658507497" />
-    <state width="1028" height="178" key="GridCell.Tab.1.left" timestamp="1587658507497">
+    <state width="964" height="223" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1588682158893" />
+    <state width="964" height="223" key="GridCell.Tab.1.left" timestamp="1588682158893">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1028" height="178" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1587658507497" />
-    <state width="1028" height="178" key="GridCell.Tab.1.right" timestamp="1587658507497">
+    <state width="964" height="223" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1588682158893" />
+    <state width="964" height="223" key="GridCell.Tab.1.right" timestamp="1588682158893">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1028" height="178" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1587658507497" />
-    <state x="314" y="0" key="SettingsEditor" timestamp="1587128769727">
+    <state width="964" height="223" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1588682158893" />
+    <state x="314" y="0" key="SettingsEditor" timestamp="1588597850047">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="314" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1587128769727" />
+    <state x="314" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1588597850047" />
     <state x="551" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586262707583">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="551" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738@0.0.1366.738" timestamp="1586262707583" />
-    <state x="352" y="382" key="run.anything.popup" timestamp="1587488997258">
+    <state x="352" y="382" key="run.anything.popup" timestamp="1588272196497">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="352" y="382" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1587488997258" />
-    <state x="307" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1587397681129">
+    <state x="352" y="382" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1588272196497" />
+    <state x="307" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1588267575723">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="307" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1587397681129" />
+    <state x="307" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1588267575723" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -386,7 +427,7 @@
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InnerClassesExample/Student/Student.java</url>
+          <url>file://$PROJECT_DIR$/src/InnerNestedLocalClassesEx/InnerClassesExample/Student/Student.java</url>
           <line>55</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
@@ -409,6 +450,11 @@
           <url>file://$PROJECT_DIR$/src/MultiThreading/CyclicBarrierEx.java</url>
           <line>14</line>
           <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/App.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

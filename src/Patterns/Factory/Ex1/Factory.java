@@ -1,4 +1,4 @@
-package Patterns.Factory;
+package Patterns.Factory.Ex1;
 
 public class Factory {
     public static void serviceConsumer(ServiceFactory sf) {

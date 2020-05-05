@@ -1,4 +1,4 @@
-package InnerClassesExample;
+package InnerNestedLocalClassesEx.InnerClassesExample;
 
 //Вложенные классы - Nested (static)
 

@@ -1,4 +1,4 @@
-package InnerClassesExample.LocalInner;
+package InnerNestedLocalClassesEx.LocalInner.Ex1;
 
 public class Om {
 

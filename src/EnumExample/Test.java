@@ -1,7 +1,5 @@
 package EnumExample;
 
-import AnonymousClassExample.Animal;
-
 public class Test {
     private static final int DOG = 0;
     private static final int CAT = 1;

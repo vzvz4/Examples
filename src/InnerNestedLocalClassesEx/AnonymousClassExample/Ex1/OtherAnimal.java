@@ -1,4 +1,4 @@
-package AnonymousClassExample;
+package InnerNestedLocalClassesEx.AnonymousClassExample.Ex1;
 
 public class OtherAnimal extends Animal {
     @Override
