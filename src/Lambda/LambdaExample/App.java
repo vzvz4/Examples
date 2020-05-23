@@ -11,7 +11,7 @@ public class App {
         //лямбда основана на использовании функционального интерфейса
 
         TestLambda testLambda = new TestLambda();
-        testLambda.method((x, y) -> x + y);
+        TestLambda.method((x, y) -> x + y);
 
         int[] arr = new int[10];
         List<Integer> list = new ArrayList<>();

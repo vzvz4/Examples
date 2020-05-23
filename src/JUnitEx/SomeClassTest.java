@@ -11,7 +11,8 @@ import java.util.Collection;
 
 @RunWith(Parameterized.class)
 public class SomeClassTest {
-    //    assertTrue() – проверяет, что переданное условие истинно;
+
+//    assertTrue() – проверяет, что переданное условие истинно;
 //    assertFalse() – проверяет, что переданное условие ложно;
 //    fail() – метод для принудительного «провала» теста;
 //    assertEquals() - проверяет, что для объектов, переданных в качестве параметров, метод equals возвращает true;

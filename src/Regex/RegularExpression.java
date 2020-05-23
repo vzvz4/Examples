@@ -33,7 +33,7 @@ public class RegularExpression {
         String a = "-122";
         String b = "122";
         String c = "+122";
-        System.out.println(a.matches("((\\+|-)?\\d*)"));
+        System.out.println(a.matches("(([+\\-])?\\d*)"));
         System.out.println(b.matches("((\\+|-)?\\d*)"));
         System.out.println(c.matches("((\\+|-)?\\d*)"));
 

@@ -7,7 +7,7 @@ public class ConnectionManager {
         private String address;
         private String socket;
 
-        public Connection(String address, String socket) {
+        private Connection(String address, String socket) {
             this.address = address;
             this.socket = socket;
         }
@@ -16,7 +16,7 @@ public class ConnectionManager {
         }
     }
 
-    private static List<Connection> connections;
+    private static final List<Connection> connections;
     private static int counter;
     static {
         connections = new ArrayList<>();
@@ -29,5 +29,9 @@ public class ConnectionManager {
         if(counter < LIMIT) {
             return connections.get(counter++);
         } else return null;
+    }
+
+    public static List<Connection> getConnections() {
+        return connections;
     }
 }
