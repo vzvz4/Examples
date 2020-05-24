@@ -20,34 +20,216 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="176936f8-be86-4f87-90b4-498953b16176" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MySQLTestEx/MySQLTestEx.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQLTestEx/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQLTestEx/src/Connect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ApachePOI_WordToTextConverter/POI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/MethodReference/TransformUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Stream/AppStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Stream/FlatMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Stream/GroupingBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Stream/HighOrderFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Stream/ParallelStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Stream/StreamFunctionPredicateEtc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Stream/StreamOverview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Stream/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/TimeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/Impl1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/init.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApachePOI_Converter_WordToText/ApachePOI_Converter_WordToText.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApachePOI_Converter_WordToText/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApachePOI_Converter_WordToText/src/main/java/POI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/JavaCore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQLDB/MySQLDB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XMLReader/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XMLReader/src/main/java/Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Examples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostgresTestExample/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresTestExample/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostgresTestExample/target/classes/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JUnitEx/SomeClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JUnitEx/SomeClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lambda/Comparter/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda/Comparter/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lambda/LambdaExample/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda/LambdaExample/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lambda/LambdaExample/TestLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda/LambdaExample/TestLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/Singleton/ConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/Singleton/ConnectionManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Regex/RegularExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Regex/RegularExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQLTestEx/MySQLTestEx.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQLTestEx/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQLTestEx/src/Connect.java" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/src/Connect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostgresTestExample/PostgresTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresDB/PostgresDB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostgresTestExample/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresDB/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostgresTestExample/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresDB/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ApachePOI_WordToTextConverter/POI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/ArrayListE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/Iterator/MyIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/Java-collection-framework-hierarchy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/LinkedListE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/MapE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/MyVersionOfArrayList/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/MyVersionOfArrayList/Col.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/QueE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/SetE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsExample/StackE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComparatorComparable/MyComparableClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComparatorComparable/MyComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EnumExample/AnimalEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EnumExample/Season.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EnumExample/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsAndHashCode/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsAndHashCode/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/content_pasted_image_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExtendsExampleShapeBox/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExtendsExampleShapeBox/Cube.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExtendsExampleShapeBox/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExtendsExampleShapeBox/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExtendsExampleShapeBox/UsingInterface/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExtendsExampleShapeBox/UsingInterface/Cube.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExtendsExampleShapeBox/UsingInterface/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExtendsExampleShapeBox/UsingInterface/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci/Fib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalizeEx/Final.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalizeEx/Finalize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalizeEx/Снимок.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generics/Generic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generics/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generics/SimpleBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generics/Stats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HabrRiddles/Ves.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HabrRiddles/WeigthApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InitializingBlocks/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex1/AbleToEat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex1/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex1/OtherAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex1/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex2/ClassAnon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex2/Count.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/ExtendFromInner/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/ExtendFromInner/K.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/ExtendFromInner/M.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/ExtendFromInner/N.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/InnerClassesExample/InnNes.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/InnerClassesExample/InnerClasses.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/InnerClassesExample/OtherExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/InnerClassesExample/StaticClass.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/LocalInner/Ex1/Om.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/LocalInner/Ex1/OpenI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/LocalInner/Ex2/ClassLocal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/LocalInner/Ex2/Count.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/LocalInner/LocalAnon.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerNestedLocalClassesEx/Resume.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InputOutputStreams/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InputOutputStreams/FileInputStream.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InputOutputStreams/Serializable/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InputOutputStreams/Serializable/App2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InputOutputStreams/Serializable/students.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InputOutputStreams/demo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InputOutputStreams/demo2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InputOutputStreams/МетодыFile.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InputOutputStreams/ОбозначениеКлассов.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfacesExample/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfacesExample/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfacesExample/Info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfacesExample/OOPHomeWorks/Action.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfacesExample/OOPHomeWorks/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfacesExample/OOPHomeWorks/CourseRunTrack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfacesExample/OOPHomeWorks/CourseWall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfacesExample/OOPHomeWorks/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfacesExample/OOPHomeWorks/Robots.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfacesExample/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JDBC_SQLite/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JDBC_SQLite/DataBaseHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JDBC_SQLite/IDataBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JDBC_SQLite/Query.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JDBC_SQLite/sqliteDB/sqlite3.def" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JDBC_SQLite/sqliteDB/sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JDBC_SQLite/sqliteDB/sqlite3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JDBC_SQLite/sqliteDB/user.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JDBC_SQLite/sqliteDB/users.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JUnitEx/SomeClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JUnitEx/SomeClassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaException/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaException/DivideByZeroException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/Comparter/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/LambdaExample/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/LambdaExample/Executable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/LambdaExample/TestLambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/MethodReference/TransformUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/Stream/AppStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/Stream/FlatMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/Stream/GroupingBy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/Stream/HighOrderFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/Stream/ParallelStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/Stream/StreamFunctionPredicateEtc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/Stream/StreamOverview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/Stream/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/TimeUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Log4j2Ex/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Log4j2Ex/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Log4j2Ex/log4j2/log4j-api-2.13.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Log4j2Ex/log4j2/log4j-core-2.13.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/ArrayBlockingQueueEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/CallableFuture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/CountDownLatchEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/CyclicBarrierEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/DeadLockEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/DeadLockEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/HomeWork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/InterruptedExceptionEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/LockEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/PatternProducer_Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/ReadWriteLockEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/ReentrantLockEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/SemaphoreEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/Synhronized/Example1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/Synhronized/Example2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/Synhronized/Example3Static.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/Synhronized/SynchronizedExam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/ThreadPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/WaitNNotify.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Adapter/ex1/Adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Adapter/ex1/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Adapter/ex1/LetterChanger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Adapter/ex1/Processor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Adapter/ex2/AdapterRandomNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Adapter/ex2/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Adapter/ex2/RandomNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Adapter/Адаптер.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/CallBack/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/CallBack/SomeClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/Ex1/Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/Ex1/Impl1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/Ex1/Impl1Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/Ex1/Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/Ex1/ServiceFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/Ex2/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/Ex2/buttons/Button.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/Ex2/buttons/HtmlButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/Ex2/buttons/WindowsButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/Ex2/dialog/Dialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/Ex2/dialog/HtmlDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/Ex2/dialog/WindowsDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Factory/Fabric.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Singleton/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Singleton/ConnectionManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/State/AlertShip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/State/Ship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Strategy/Apply.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Strategy/Processor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Strategy/Splitter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Strategy/Strategy.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polimorphism/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polimorphism/BadExampleOf/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polimorphism/BadExampleOf/Dumb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polimorphism/Resume.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadMe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReflectionEx/DefaultAnnotationEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReflectionEx/ExampleInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReflectionEx/Ref.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Regex/PatterMatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Regex/RegularExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Regex/Split.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SolveMath/Solver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortingMethods/SortingMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringsWork/BufferedClasses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringsWork/Lesson7_Strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringsWork/res/BuffOut.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringsWork/res/BuffOut2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringsWork/res/BuffOut3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringsWork/res/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TemperatureConverter/BaseConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TemperatureConverter/CelsiusConvert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TemperatureConverter/FahrenheitConvert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TemperatureConverter/KelvinConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TemperatureConverter/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TernaryOperator/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/Impl1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/Note.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/init.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WraperString/DictionaryBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WraperString/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WraperString/WrapperString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libGDXExample/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,19 +270,19 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GDXGame" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MySQLDB" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -110,29 +292,30 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vzvz4\Desktop\PAPKA\GitHub\Examples\PostgresDB" />
+      <recent name="C:\Users\vzvz4\Desktop\PAPKA\GitHub\Examples\PostgresDB\src" />
       <recent name="C:\Users\Slava\Documents\GitHub\Examples\PostgresTestExample\src" />
       <recent name="C:\Users\Slava\Documents\GitHub\Examples\MySQLTestEx\src" />
       <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\InnerNestedLocalClassesEx" />
-      <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\InnerNestedLocalClassesEx\LocalInner" />
-      <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\InnerClassesExample" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="Patterns.Adapter" />
       <recent name="OOPHomeWorks" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vzvz4\Desktop\PAPKA\GitHub\Examples\MySQLDB" />
+      <recent name="C:\Users\vzvz4\Desktop\PAPKA\GitHub\Examples\MySQLDB\src" />
       <recent name="C:\Users\Slava\Documents\GitHub\Examples" />
       <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\InnerClassesExample\ExtendFromInner" />
       <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\InnerClassesExample\LocalInner" />
-      <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\Polimorphism" />
-      <recent name="C:\Users\Slava\Documents\GitHub\Examples\src\CollectionsExample\MyVersionArrayList" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="JDBC_SQLite" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App (1)">
-    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test.App" />
       <module name="Examples" />
       <extension name="coverage">
@@ -145,12 +328,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HighOrderFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambda.Stream.HighOrderFunction" />
+    <configuration name="Frob$as" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Frob$as" />
       <module name="Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lambda.Stream.*" />
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Frob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Frob" />
+      <module name="Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,25 +367,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyComparableClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComparatorComparable.MyComparableClass" />
+    <configuration name="TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.TryCatch" />
       <module name="Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComparatorComparable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamOverview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambda.Stream.StreamOverview" />
-      <module name="Examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lambda.Stream.*" />
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,18 +381,18 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HighOrderFunction" />
       <item itemvalue="Application.Impl1" />
-      <item itemvalue="Application.App (1)" />
-      <item itemvalue="Application.StreamOverview" />
-      <item itemvalue="Application.MyComparableClass" />
+      <item itemvalue="Application.Frob" />
+      <item itemvalue="Application.Frob$as" />
+      <item itemvalue="Application.TryCatch" />
+      <item itemvalue="Application.App" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App (1)" />
-        <item itemvalue="Application.StreamOverview" />
-        <item itemvalue="Application.MyComparableClass" />
-        <item itemvalue="Application.HighOrderFunction" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.TryCatch" />
+        <item itemvalue="Application.Frob" />
+        <item itemvalue="Application.Frob$as" />
         <item itemvalue="Application.Impl1" />
       </list>
     </recent_temporary>
@@ -236,7 +419,9 @@
       <workItem from="1590128225591" duration="1630000" />
       <workItem from="1590142108273" duration="3681000" />
       <workItem from="1590202221361" duration="10569000" />
-      <workItem from="1590217001398" duration="3365000" />
+      <workItem from="1590217001398" duration="3711000" />
+      <workItem from="1590272979173" duration="7978000" />
+      <workItem from="1590303189550" duration="5361000" />
     </task>
     <task id="LOCAL-00001" summary="некоторая несущественная корректировка">
       <created>1578621354925</created>
@@ -306,15 +491,23 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="790" y="77" key="#Auto_Import/0.0.1366.738@0.0.1366.738" timestamp="1589791762170" />
+    <state x="268" y="0" key="#Project_Structure" timestamp="1590317264270">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="268" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1590317264270" />
     <state x="371" y="157" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587397300489">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="371" y="157" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1587397300489" />
-    <state x="645" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1590208708609">
+    <state x="645" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1590309130889">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1589918163103" />
-    <state x="645" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590208708609" />
+    <state x="645" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590309130889" />
+    <state x="418" y="115" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1590317446844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="115" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1590317446844" />
     <state x="540" y="89" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1586261479378">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -335,69 +528,74 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="271" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1585672289006" />
-    <state x="468" y="152" key="FileChooserDialogImpl" timestamp="1590128996867">
+    <state x="468" y="152" key="FileChooserDialogImpl" timestamp="1590287614386">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="416" y="136" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1588591030741" />
-    <state x="468" y="152" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590128996867" />
-    <state width="1425" height="125" key="GridCell.Tab.0.bottom" timestamp="1590222553525">
+    <state x="468" y="152" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590287614386" />
+    <state width="1426" height="233" key="GridCell.Tab.0.bottom" timestamp="1590317221832">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1042" height="97" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1590104664153" />
-    <state width="1425" height="125" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590222553525" />
-    <state width="1425" height="125" key="GridCell.Tab.0.center" timestamp="1590222553525">
+    <state width="1426" height="233" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590317221832" />
+    <state width="1426" height="233" key="GridCell.Tab.0.center" timestamp="1590317221832">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1042" height="97" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1590104664153" />
-    <state width="1425" height="125" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590222553525" />
-    <state width="1425" height="125" key="GridCell.Tab.0.left" timestamp="1590222553525">
+    <state width="1426" height="233" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590317221832" />
+    <state width="1426" height="233" key="GridCell.Tab.0.left" timestamp="1590317221832">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1042" height="97" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1590104664153" />
-    <state width="1425" height="125" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590222553525" />
-    <state width="1425" height="125" key="GridCell.Tab.0.right" timestamp="1590222553525">
+    <state width="1426" height="233" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590317221832" />
+    <state width="1426" height="233" key="GridCell.Tab.0.right" timestamp="1590317221832">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1042" height="97" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1590104664153" />
-    <state width="1425" height="125" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590222553525" />
-    <state width="1424" height="258" key="GridCell.Tab.1.bottom" timestamp="1590215078374">
+    <state width="1426" height="233" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590317221832" />
+    <state width="1426" height="258" key="GridCell.Tab.1.bottom" timestamp="1590297310683">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="903" height="154" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1590025982070" />
-    <state width="1424" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590215078374" />
-    <state width="1424" height="258" key="GridCell.Tab.1.center" timestamp="1590215078374">
+    <state width="1426" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590297310683" />
+    <state width="1426" height="258" key="GridCell.Tab.1.center" timestamp="1590297310683">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="903" height="154" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1590025982070" />
-    <state width="1424" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590215078374" />
-    <state width="1424" height="258" key="GridCell.Tab.1.left" timestamp="1590215078374">
+    <state width="1426" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590297310683" />
+    <state width="1426" height="258" key="GridCell.Tab.1.left" timestamp="1590297310683">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="903" height="154" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1590025982070" />
-    <state width="1424" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590215078374" />
-    <state width="1424" height="258" key="GridCell.Tab.1.right" timestamp="1590215078374">
+    <state width="1426" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590297310683" />
+    <state width="1426" height="258" key="GridCell.Tab.1.right" timestamp="1590297310683">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="903" height="154" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1590025982070" />
-    <state width="1424" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590215078374" />
-    <state x="353" y="0" key="SettingsEditor" timestamp="1590217041540">
+    <state width="1426" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590297310683" />
+    <state x="353" y="0" key="SettingsEditor" timestamp="1590316733147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="314" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1588597850047" />
-    <state x="353" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590217041540" />
+    <state x="353" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590316733147" />
     <state x="460" y="157" width="540" height="524" key="StructurePopup" timestamp="1590208523378">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="460" y="157" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1590208523378" />
-    <state width="1364" height="736" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1589806137494">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="860" height="822" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1590281893523">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1364" height="736" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1366.738@0.0.1366.738" timestamp="1589806137494" />
+    <state width="860" height="822" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1536.824@0.0.1536.824" timestamp="1590281893523" />
     <state x="620" y="295" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590151864341">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="551" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738@0.0.1366.738" timestamp="1586262707583" />
     <state x="620" y="295" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1590151864341" />
+    <state x="228" y="46" key="new project wizard" timestamp="1590317439966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="228" y="46" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1590317439966" />
     <state x="681" y="130" key="refactoring.ChangeSignatureDialog" timestamp="1589798505955">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

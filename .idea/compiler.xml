@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ApachePOI_Converter_WordToText" />
+        <module name="PostgresDB" />
+        <module name="MySQLDB" />
+        <module name="XMLReader" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ApachePOI_Converter_WordToText" target="1.5" />
+      <module name="MySQLDB" target="1.5" />
+      <module name="PostgresDB" target="1.5" />
+      <module name="XMLReader" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

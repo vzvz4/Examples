@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApachePOI_Converter_WordToText/ApachePOI_Converter_WordToText.iml" filepath="$PROJECT_DIR$/ApachePOI_Converter_WordToText/ApachePOI_Converter_WordToText.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples.iml" filepath="$PROJECT_DIR$/Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCore/JavaCore.iml" filepath="$PROJECT_DIR$/JavaCore/JavaCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySQLDB/MySQLDB.iml" filepath="$PROJECT_DIR$/MySQLDB/MySQLDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PostgresDB/PostgresDB.iml" filepath="$PROJECT_DIR$/PostgresDB/PostgresDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XMLReader/XMLReader.iml" filepath="$PROJECT_DIR$/XMLReader/XMLReader.iml" />
     </modules>
   </component>
 </project>
