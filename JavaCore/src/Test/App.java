@@ -1,7 +1,9 @@
 package Test;
 
 
+import java.io.File;
 import java.util.*;
+import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -209,16 +211,7 @@ public class App {
             System.out.println(33);
         }
     }
-    public static void main(String[] args) {
-        String a = "1", b = "2", g = "22", i = "soi";
-        String c = String.join(a,b,g,i);
-        System.out.println(c);
 
-        String sent = "Java is the best prog language";
-        String[] word = sent.split(" ");
-        String str = Arrays.stream(word).map(s -> String.join("-", word)).limit(1).collect(Collectors.joining());
-        System.out.println(str);
-    }
 
     static class Emp implements Comparable<Emp> {
         @Override
@@ -262,6 +255,56 @@ public class App {
         }
 
     }
+    static class AA {
+        static int id;
+        static{
+            System.out.println("st");
+        }
+    }
+
+    static class BB extends AA {
+        static {
+            System.out.println("sb");
+        }
+    }
 
 
+    @FunctionalInterface
+    interface Filter<T> extends Predicate<T> {
+    }
+
+    static IntStream filter(Integer [] obj, Filter<Integer> filter) {
+        return Arrays.stream(obj).filter(filter).mapToInt(x -> x);
+    }
+
+
+    static <T> T[] filter2(T[] array, Predicate<T> predicate) {
+        int offset = 0;
+        for(int i = 0; i< array.length; i++){
+            if(!predicate.test(array[i])){
+                offset++;
+            } else{
+                array[i - offset] = array[i];
+            }
+        }
+        return Arrays.copyOf(array, array.length - offset);
+    }
+
+    static <T extends Number> T[] fill(T[] array, Function<Integer, ? extends T> function) {
+        for (int i = 0; i < array.length; i++) {
+            array[i] = function.apply(i);
+        }
+        return array;
+    }
+
+    public static void main(String[] args) {
+        Solution<Integer> solution = new Solution<>();
+        solution.setElementData(new Integer[]{1,2,3,4,8});
+        for (Integer s: solution) {
+            System.out.println(s);
+        }
+    }
+    static class StringDeny {
+
+    }
 }
