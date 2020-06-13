@@ -1,4 +1,6 @@
 package Test.comp;
 
-public interface Compose {
+public interface Component {
+    int execute();
+    void add(Component... components);
 }

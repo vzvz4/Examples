@@ -5,7 +5,7 @@ import java.util.Map;
 
 import static com.sun.deploy.si.SingleInstanceManager.connectToServer;
 
-public class ThirdPartyYouTubeClass implements ThirdPartyYouTubeLib {
+public class ThirdPartyYouTubeImpl implements ThirdPartyYouTubeLib {
 
 
     @Override

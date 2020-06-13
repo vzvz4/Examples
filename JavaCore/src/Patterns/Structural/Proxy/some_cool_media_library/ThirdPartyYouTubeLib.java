@@ -1,7 +1,9 @@
-package Patterns.Structural.Proxy;
+package Patterns.Structural.Proxy.some_cool_media_library;
+
+import java.util.Map;
 
 public interface ThirdPartyYouTubeLib {
-    void listVideos();
-    String getVideoInfo(int id);
-    void downloadVideo(int id);
+    Map<String, Video> getPopularVideos();
+
+    Video getVideo(String videoId);
 }

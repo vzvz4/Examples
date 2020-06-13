@@ -1,23 +1,45 @@
-package Patterns.Structural.Proxy;
+package Patterns.Structural.Proxy.proxy;
 
-public class CachedYouTubeClass implements ThirdPartyYouTubeLib {
-    private ThirdPartyYouTubeLib service;
+import Patterns.Structural.Proxy.some_cool_media_library.ThirdPartyYouTubeImpl;
+import Patterns.Structural.Proxy.some_cool_media_library.ThirdPartyYouTubeLib;
+import Patterns.Structural.Proxy.some_cool_media_library.Video;
 
-    public CachedYouTubeClass(ThirdPartyYouTubeLib service) {
-        this.service = service;
+import java.util.HashMap;
+import java.util.Map;
+
+public class YouTubeCacheProxy implements ThirdPartyYouTubeLib {
+    private ThirdPartyYouTubeLib youtubeService;
+    private Map<String, Video> cachePopular = new HashMap<>();
+    private Map<String, Video> cacheAll = new HashMap<>();
+
+    public YouTubeCacheProxy(ThirdPartyYouTubeLib youtubeService) {
+        this.youtubeService = youtubeService;
     }
 
     @Override
-    public void listVideos() {
-
+    public Map<String, Video> getPopularVideos() {
+        if (cachePopular.isEmpty()) {
+            cachePopular = youtubeService.getPopularVideos();
+        } else {
+            System.out.println("Retrieved list from cache.");
+        }
+        return cachePopular;
     }
 
     @Override
-    public String getVideoInfo(int id) {
-        return null;
+    public Video getVideo(String videoId) {
+        Video video = cacheAll.get(videoId);
+        if (video == null) {
+            video = youtubeService.getVideo(videoId);
+            cacheAll.put(videoId, video);
+        } else {
+            System.out.println("Retrieved video '" + videoId + "' from cache.");
+        }
+        return video;
     }
 
-    @Override
-    public void downloadVideo(int id) {
+    public void reset() {
+        cachePopular.clear();
+        cacheAll.clear();
     }
 }

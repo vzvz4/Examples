@@ -1,7 +1,7 @@
-package Patterns.Behavior.Visitor.Ex1_Developers.developers;
+package Patterns.Behavioral.Visitor.Ex1_Developers.developers;
 
-import Patterns.Behavior.Visitor.Ex1_Developers.projectElements.ClassElements;
-import Patterns.Behavior.Visitor.Ex1_Developers.projectElements.TestElement;
+import Patterns.Behavioral.Visitor.Ex1_Developers.projectElements.ClassElements;
+import Patterns.Behavioral.Visitor.Ex1_Developers.projectElements.TestElement;
 
 public class JuniorDeveloper implements Developer {
 

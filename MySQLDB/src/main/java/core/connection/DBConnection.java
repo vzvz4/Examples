@@ -6,7 +6,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public abstract class AbsConnection {
+public class DBConnection {
     protected String port;
     protected String host;
     protected String user;
@@ -16,14 +16,16 @@ public abstract class AbsConnection {
     protected String dbName;
 
     protected String urlPrefix;
+    protected ConfigParams cfg;
 
-    public AbsConnection() {
-        port = ConfigParams.getConfig().getPort();
-        host = ConfigParams.getConfig().getHost();
-        user = ConfigParams.getConfig().getUserName();
-        pass = ConfigParams.getConfig().getUserPass();
-        dbName = ConfigParams.getConfig().getDbName();
-        urlParams = ConfigParams.getConfig().getParams();
+    public DBConnection(ConfigParams cfg) {
+        this.cfg = cfg;
+        port = cfg.getPort();
+        host = cfg.getHost();
+        user = cfg.getUserName();
+        pass = cfg.getUserPass();
+        dbName = cfg.getDbName();
+        urlParams = cfg.getParams();
     }
 
     protected String createURL() {
@@ -32,6 +34,10 @@ public abstract class AbsConnection {
 
     public Connection createConn() throws ClassNotFoundException, SQLException {
         return DriverManager.getConnection(createURL(), user, pass);
+    }
+
+    public ConfigParams getCfg() {
+        return cfg;
     }
 
 }
