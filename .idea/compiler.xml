@@ -14,7 +14,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ApachePOI_Converter_WordToText" target="1.5" />
-      <module name="MySQLDB" target="1.5" />
+      <module name="MySQLDB" target="1.8" />
       <module name="PostgresDB" target="1.5" />
       <module name="XMLReader" target="1.5" />
     </bytecodeTargetLevel>

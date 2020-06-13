@@ -298,11 +298,13 @@ public class App {
     }
 
     public static void main(String[] args) {
-        Solution<Integer> solution = new Solution<>();
-        solution.setElementData(new Integer[]{1,2,3,4,8});
-        for (Integer s: solution) {
-            System.out.println(s);
-        }
+        ArrayList<String>[] res = new ArrayList[] {new ArrayList<String>(), new ArrayList<>()};
+        String[] ress = {"JAva", "Cpp"};
+        ArrayList<String> arr = new ArrayList<>();
+        arr.add("java");
+        arr.add("cpp");
+        int length = arr.stream().mapToInt(String::length).max().getAsInt();
+        System.out.println(length);
     }
     static class StringDeny {
 

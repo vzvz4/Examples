@@ -10,19 +10,21 @@ public class App {
         System.out.println("Connected");
         Statement st = conn.createStatement();
 
-        PreparedStatement ps = conn.prepareStatement("INSERT INTO public.\"Books\" (id, Name) values (?,?)");
-        for (int i = 5; i < 10; i++) {
-            ps.setInt(1, i);
-            ps.setString(2, i+" Client");
-            int a = ps.executeUpdate();
-            System.out.println(a);
-        }
+//        PreparedStatement ps = conn.prepareStatement("INSERT INTO public.\"Books\" (id, Name) values (?,?)");
+//        for (int i = 5; i < 10; i++) {
+//            ps.setInt(1, i);
+//            ps.setString(2, i+" Client");
+//            int a = ps.executeUpdate();
+//            System.out.println(a);
+//        }
 
         Statement res = conn.createStatement();
-        ResultSet rs = res.executeQuery("select * from public.\"Books\"");
+        ResultSet rs = res.executeQuery("select * from test.\"phones\"");
+
 
         while (rs.next()) {
-            System.out.println(rs.getString("name"));
+            System.out.println(rs.getString("id"));
+            System.out.println(rs.getString("phone"));
         }
 
         conn.close();
