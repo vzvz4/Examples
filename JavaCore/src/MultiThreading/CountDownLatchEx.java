@@ -21,8 +21,8 @@ public class CountDownLatchEx {
                 try {
                     // считаем, что выполнение задачи занимает ~1 сек
                     Thread.sleep(500 + (int)(1500 * Math.random()));
-                    cdl.countDown();
                     // как только задача выполнена, уменьшаем счетчик
+                    cdl.countDown();
                     System.out.println("Поток #" + w + " - готов");
                 } catch (InterruptedException e) {
                     e.printStackTrace();
@@ -34,7 +34,8 @@ public class CountDownLatchEx {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-// как только все потоки выполнили свои задачи - пишем сообщение
+
+        // как только все потоки выполнили свои задачи - пишем сообщение
         System.out.println("Работа завершена");
     }
 }

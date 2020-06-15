@@ -6,7 +6,7 @@ public class Apply {
 
     static String str = "We Love Java";
 
-    static void process(Processor p, Object input) {
+    static void process(Processor<String, String> p, String input) {
         System.out.println("Name of processor : " + p.name());
         Object o = p.process(input);
         System.out.println(o.getClass());
@@ -14,6 +14,6 @@ public class Apply {
     }
 
     public static void main(String[] args) {
-        process(x -> Arrays.toString(((String) x).split(" ")), str);
+        process(x -> Arrays.toString(x.split(" ")), str);
     }
 }

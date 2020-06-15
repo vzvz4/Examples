@@ -1,10 +1,10 @@
 package Patterns.Behavioral.Strategy;
 
-public interface Processor {
+public interface Processor<T, U> {
 
     default String name() {
         return this.getClass().getSimpleName();
     }
 
-    Object process(Object input);
+    U process(T input);
 }
