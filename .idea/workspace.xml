@@ -20,25 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="176936f8-be86-4f87-90b4-498953b16176" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/ConcreteMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/Read.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/UML.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/UML2jpg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/MessageFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/MessageProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/MessageRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/NewMessageProdImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/SimpleMessageProdImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/SimpleMessageRendererImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/app.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Stream_Lambda/Stream/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/src/Arlgorithms/FindUniqueElementInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/src/Arlgorithms/SplitStringByUpperCaseLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/src/JavaNIO/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/src/JavaNIO/NIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/src/JavaNIO/NIOBuffers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/src/JavaNIO/NIOServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/src/JavaNIO/folder/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/Forest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/Read.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/TreeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/TreeTypeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/uml.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/uml2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/uml3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Bridge/Read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Bridge/Read.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../geek-java-ee-lessons-20/geek-java-ee-lessons-20" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cloud_storage_08" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -91,7 +90,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -101,11 +100,11 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vzvz4\Desktop\PAPKA\GitHub\Examples\JavaCore\src\Patterns\Structural\Flyweight" />
       <recent name="C:\Users\vzvz4\Desktop\PAPKA\GitHub\Examples\JavaCore\src\Patterns\Behavioral\Mediator" />
       <recent name="C:\Users\vzvz4\Desktop\PAPKA\GitHub\Examples\JavaCore\src\Patterns\Behavioral\Command" />
       <recent name="C:\Users\vzvz4\Desktop\PAPKA\GitHub\Examples\JavaCore\src\StringsWork" />
       <recent name="C:\Users\vzvz4\Desktop\PAPKA\GitHub\Examples\PostgresDB" />
-      <recent name="C:\Users\vzvz4\Desktop\PAPKA\GitHub\Examples\PostgresDB\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -113,64 +112,26 @@
       <recent name="OOPHomeWorks" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vzvz4\Desktop\PAPKA\GitHub\Examples\JavaCore\src\JavaNIO" />
       <recent name="C:\Users\vzvz4\Desktop\PAPKA\GitHub\Examples\JavaCore\src\Patterns\Structural\Proxy" />
       <recent name="C:\Users\vzvz4\Desktop\PAPKA\GitHub\Examples\JavaCore\src\Patterns\Structural\Bridge" />
       <recent name="C:\Users\vzvz4\Desktop\PAPKA\GitHub\Examples\JavaCore\src\Patterns\Creational\Prototype" />
       <recent name="C:\Users\vzvz4\Desktop\PAPKA\GitHub\Examples\JavaCore\src\Patterns\Structural\Decorator" />
-      <recent name="C:\Users\vzvz4\Desktop\PAPKA\GitHub\Examples\JavaCore\src\Patterns\Behavior\Visitor" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Patterns.Structural.Flyweight" />
       <recent name="Patterns.Creational.Builder" />
       <recent name="Test.fab2" />
       <recent name="JDBC_SQLite" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.IoC.App" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Patterns.IoC.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Apply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.Behavioral.Strategy.Apply" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Patterns.Behavioral.Strategy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.Behavioral.Mediator.Client" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Patterns.Behavioral.Mediator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NIOServer">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.Behavioral.Command.Client" />
+      <option name="MAIN_CLASS_NAME" value="Patterns.Structural.Flyweight.Client" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Patterns.Behavioral.Command.*" />
+          <option name="PATTERN" value="Patterns.Structural.Flyweight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +139,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SemaphoreEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.SemaphoreEx" />
+    <configuration name="FindUniqueElementInList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arlgorithms.FindUniqueElementInList" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="PATTERN" value="Arlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaNIO.NIO" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaNIO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NIOBuffers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaNIO.NIOBuffers" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaNIO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NIOServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaNIO.NIOServer" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaNIO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitStringByUpperCaseLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arlgorithms.SplitStringByUpperCaseLetter" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arlgorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,19 +205,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SemaphoreEx" />
-      <item itemvalue="Application.Apply" />
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.Client (1)" />
-      <item itemvalue="Application.App" />
+      <item itemvalue="Application.SplitStringByUpperCaseLetter" />
+      <item itemvalue="Application.FindUniqueElementInList" />
+      <item itemvalue="Application.NIO" />
+      <item itemvalue="Application.NIOBuffers" />
+      <item itemvalue="Application.NIOServer" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Apply" />
-        <item itemvalue="Application.SemaphoreEx" />
+        <item itemvalue="Application.NIOServer" />
+        <item itemvalue="Application.NIOBuffers" />
+        <item itemvalue="Application.NIO" />
+        <item itemvalue="Application.FindUniqueElementInList" />
+        <item itemvalue="Application.SplitStringByUpperCaseLetter" />
       </list>
     </recent_temporary>
   </component>
@@ -260,6 +273,12 @@
       <workItem from="1593335763238" duration="1568000" />
       <workItem from="1593437630902" duration="1679000" />
       <workItem from="1594373944885" duration="2542000" />
+      <workItem from="1595313742596" duration="4983000" />
+      <workItem from="1595437055783" duration="7081000" />
+      <workItem from="1595449634449" duration="848000" />
+      <workItem from="1595539651179" duration="4253000" />
+      <workItem from="1595577857167" duration="2511000" />
+      <workItem from="1595669465227" duration="10801000" />
     </task>
     <task id="LOCAL-00001" summary="некоторая несущественная корректировка">
       <created>1578621354925</created>
@@ -337,27 +356,23 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="371" y="157" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1587397300489" />
-    <state x="645" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1594375646609">
+    <state x="645" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1595674081082">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1589918163103" />
-    <state x="645" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594375646609" />
+    <state x="645" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595674081082" />
     <state x="418" y="115" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1590763644682">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="418" y="115" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1590763644682" />
-    <state x="540" y="89" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1586261479378">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="540" y="89" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.738@0.0.1366.738" timestamp="1586261479378" />
     <state x="368" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1591632162326">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="368" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1591632162326" />
-    <state x="419" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590820791586">
+    <state x="419" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595442427662">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="419" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1590820791586" />
+    <state x="419" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1595442427662" />
     <state x="781" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590820745339">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -371,56 +386,56 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="423" y="227" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1588528369823" />
-    <state x="468" y="152" key="FileChooserDialogImpl" timestamp="1593335791854">
+    <state x="468" y="152" key="FileChooserDialogImpl" timestamp="1595690072122">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="416" y="136" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1588591030741" />
-    <state x="468" y="152" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593335791854" />
-    <state width="1370" height="145" key="GridCell.Tab.0.bottom" timestamp="1594375812094">
+    <state x="468" y="152" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595690072122" />
+    <state width="990" height="233" key="GridCell.Tab.0.bottom" timestamp="1595708041681">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1042" height="97" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1590104664153" />
-    <state width="1370" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594375812094" />
-    <state width="1370" height="145" key="GridCell.Tab.0.center" timestamp="1594375812094">
+    <state width="990" height="233" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595708041681" />
+    <state width="990" height="233" key="GridCell.Tab.0.center" timestamp="1595708041681">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1042" height="97" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1590104664153" />
-    <state width="1370" height="145" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594375812094" />
-    <state width="1370" height="145" key="GridCell.Tab.0.left" timestamp="1594375812094">
+    <state width="990" height="233" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595708041681" />
+    <state width="990" height="233" key="GridCell.Tab.0.left" timestamp="1595708041681">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1042" height="97" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1590104664153" />
-    <state width="1370" height="145" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594375812094" />
-    <state width="1370" height="145" key="GridCell.Tab.0.right" timestamp="1594375812094">
+    <state width="990" height="233" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595708041681" />
+    <state width="990" height="233" key="GridCell.Tab.0.right" timestamp="1595708041681">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1042" height="97" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1590104664153" />
-    <state width="1370" height="145" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594375812094" />
-    <state width="1370" height="233" key="GridCell.Tab.1.bottom" timestamp="1594375311164">
+    <state width="990" height="233" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595708041681" />
+    <state width="990" height="233" key="GridCell.Tab.1.bottom" timestamp="1595708041682">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="903" height="154" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1590025982070" />
-    <state width="1370" height="233" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594375311164" />
-    <state width="1370" height="233" key="GridCell.Tab.1.center" timestamp="1594375311164">
+    <state width="990" height="233" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595708041682" />
+    <state width="990" height="233" key="GridCell.Tab.1.center" timestamp="1595708041681">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="903" height="154" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1590025982070" />
-    <state width="1370" height="233" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594375311164" />
-    <state width="1370" height="233" key="GridCell.Tab.1.left" timestamp="1594375311164">
+    <state width="990" height="233" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595708041681" />
+    <state width="990" height="233" key="GridCell.Tab.1.left" timestamp="1595708041681">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="903" height="154" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1590025982070" />
-    <state width="1370" height="233" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594375311164" />
-    <state width="1370" height="233" key="GridCell.Tab.1.right" timestamp="1594375311164">
+    <state width="990" height="233" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595708041681" />
+    <state width="990" height="233" key="GridCell.Tab.1.right" timestamp="1595708041681">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="903" height="154" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1590025982070" />
-    <state width="1370" height="233" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594375311164" />
-    <state x="353" y="0" key="SettingsEditor" timestamp="1590763668597">
+    <state width="990" height="233" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595708041681" />
+    <state x="353" y="0" key="SettingsEditor" timestamp="1595443611712">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="314" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1588597850047" />
-    <state x="353" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590763668597" />
+    <state x="353" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595443611712" />
     <state x="460" y="157" width="540" height="524" key="StructurePopup" timestamp="1590585281950">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -437,7 +452,6 @@
     <state x="620" y="295" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590151864341">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="551" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738@0.0.1366.738" timestamp="1586262707583" />
     <state x="620" y="295" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1590151864341" />
     <state x="228" y="46" key="new project wizard" timestamp="1590317439966">
       <screen x="0" y="0" width="1536" height="824" />
@@ -452,11 +466,11 @@
     </state>
     <state x="352" y="382" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1588272196497" />
     <state x="396" y="427" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590813532653" />
-    <state x="346" y="66" width="756" height="758" key="search.everywhere.popup" timestamp="1592072918760">
+    <state x="346" y="66" width="756" height="758" key="search.everywhere.popup" timestamp="1595673437721">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="307" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1589804344040" />
-    <state x="346" y="66" width="756" height="758" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592072918760" />
+    <state x="346" y="66" width="756" height="758" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595673437721" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
