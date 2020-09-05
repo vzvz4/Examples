@@ -10,12 +10,35 @@ public class PatterMatcher {
 
         Pattern email = Pattern.compile("(\\w+)@(\\w+)\\.(com|ru)");
                                          //id1    id2      id3
-         Matcher matcher = email.matcher(str);
+        Matcher matcher = email.matcher(str);
 
         //скобки образуют group id который можно передать в параметр методу group();
 
         while(matcher.find()) {
             System.out.println(matcher.group(2));
         }
+//-------------------------------------------------------------------------------
+        Pattern pattern = Pattern.compile("a*b");
+        Matcher matcher2 = pattern.matcher("aabtextaabtextabtextb the end");
+        StringBuffer buffer = new StringBuffer();
+
+        while (matcher2.find()) {
+            matcher2.appendReplacement(buffer, "-");
+            // buffer = "-" -> "-text-" -> "-text-text-" -> "-text-text-text-"
+        }
+        matcher2.appendTail(buffer);
+        System.out.println(buffer.toString());
+//-------------------------------------------------------------------------------
+        String text = "Егор Алла Анна";
+        Pattern pattern2 = Pattern.compile("А.+?а");
+        Matcher matcher3 = pattern2.matcher(text);
+        while (matcher3.find()) {
+            int start = matcher3.start();
+            int end = matcher3.end();
+            System.out.println("Найдено совпадение " + text.substring(start,end) + " с "+ start + " по " + (end-1) + " позицию");
+        }
+        System.out.println(matcher3.replaceFirst("Ира"));
+        System.out.println(matcher3.replaceAll("Ольга"));
+        System.out.println(text);
     }
-}
+    }

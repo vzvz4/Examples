@@ -1,4 +1,4 @@
-package Patterns.Adapter.ex2;
+package Patterns.Structural.Adapter.ex2;
 
 import java.util.Random;
 

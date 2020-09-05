@@ -24,7 +24,7 @@ public class NIOBuffers {
     for (int i = 0; i < bufferSize; i++) {
       buffer.put((byte) i);
     }
-    //flip возвращает указать в начало
+    //flip возвращает указатель в начало
     buffer.flip();
     //buffer.put((byte) 4);
     System.out.println(buffer.get());

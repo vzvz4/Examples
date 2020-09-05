@@ -1,0 +1,3 @@
+
+new string
+append string

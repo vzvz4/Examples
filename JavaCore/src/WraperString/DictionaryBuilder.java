@@ -1,5 +1,8 @@
 package WraperString;
 
+import java.util.List;
+import java.util.stream.Collectors;
+
 public class DictionaryBuilder {
     public static void buildDictionary(String text) {
         text = text.toLowerCase();
@@ -15,6 +18,14 @@ public class DictionaryBuilder {
         }
     }
 
+    private static void countByLambda(List<String> list) {
+            list.stream()
+            .parallel()
+            .flatMap(x -> x.chars().mapToObj(c -> (char) c))
+            .filter(Character::isLowerCase)
+            .collect(Collectors.groupingBy(Character::new, Collectors.counting()))
+            .forEach((key, value) -> System.out.println(key + " " + value));
+    }
 
     public static void main(String[] args) {
         buildDictionary("цвввфу");
