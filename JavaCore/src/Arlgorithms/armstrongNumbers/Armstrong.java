@@ -1,4 +1,4 @@
-package com.javarush.task.task20.task2025;
+package Arlgorithms.armstrongNumbers;
 
 import java.util.Objects;
 import java.util.Set;

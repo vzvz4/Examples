@@ -1,4 +1,4 @@
-package com.javarush.task.task20.task2025;
+package Arlgorithms.armstrongNumbers;
 
 import java.math.BigInteger;
 import java.util.HashMap;

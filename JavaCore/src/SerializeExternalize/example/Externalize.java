@@ -1,4 +1,4 @@
-package SerializeExternalize;
+package SerializeExternalize.example;
 
 import java.io.Externalizable;
 import java.io.IOException;
