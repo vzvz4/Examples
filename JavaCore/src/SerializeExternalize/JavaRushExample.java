@@ -9,7 +9,7 @@ public class JavaRushExample implements Serializable {
    * чтобы из суперкласса этого объекта записывались только определенные поля этого суперкласса.
    */
   public static void main(String[] args) {
-    String f = "C:\\Users\\vzvz4\\Desktop\\PAPKA\\GitHub\\Examples\\JavaCore\\src\\SerializeExternalize\\1.txt";
+    String f = "C:\\Users\\vzvz4\\Desktop\\PAPKA\\GitHub\\FormatterEx\\JavaCore\\src\\SerializeExternalize\\1.txt";
     try (ByteArrayOutputStream outA = new ByteArrayOutputStream();
          FileOutputStream outF = new FileOutputStream(f);
          ObjectOutputStream out = new ObjectOutputStream(outF)) {

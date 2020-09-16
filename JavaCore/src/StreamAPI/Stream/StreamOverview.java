@@ -77,7 +77,7 @@ public class StreamOverview {
         list.add(new Person(7,"Sam", "Larson", 4500));
         list.add(new Person(8,"Bud", "Larson", 3000));
         testFromList(list);
-        testFromFile(new File("C:\\Users\\vzvz4\\Desktop\\PAPKA\\GitHub\\Examples\\src\\Lambda\\Stream\\file.txt"));
+        testFromFile(new File("C:\\Users\\vzvz4\\Desktop\\PAPKA\\GitHub\\FormatterEx\\src\\Lambda\\Stream\\file.txt"));
     }
 
     static void testFromList(List<Person> list) {

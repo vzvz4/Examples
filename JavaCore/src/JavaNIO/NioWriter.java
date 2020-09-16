@@ -10,7 +10,7 @@ import java.nio.channels.OverlappingFileLockException;
 
 public class NioWriter {
   public static void main(String[] args) throws IOException {
-    File f = new File("C:\\Users\\vzvz4\\Desktop\\PAPKA\\GitHub\\Examples\\JavaCore\\src\\JavaNIO\\1.txt");
+    File f = new File("C:\\Users\\vzvz4\\Desktop\\PAPKA\\GitHub\\FormatterEx\\JavaCore\\src\\JavaNIO\\1.txt");
     RandomAccessFile rs = new RandomAccessFile(f, "rw");
     byte[] data = new byte[]{55,22,65,47};
 //    rs.seek(data.length * 2);

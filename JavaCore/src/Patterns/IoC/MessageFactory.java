@@ -12,7 +12,7 @@ public class MessageFactory {
   static {
     Properties properties = new Properties();
     try(InputStream in =
-            new FileInputStream("C:\\Users\\vzvz4\\Desktop\\PAPKA\\GitHub\\Examples\\JavaCore\\src\\Patterns\\IoC\\app.properties")) {
+            new FileInputStream("C:\\Users\\vzvz4\\Desktop\\PAPKA\\GitHub\\FormatterEx\\JavaCore\\src\\Patterns\\IoC\\app.properties")) {
       properties.load(in);
       String producer = properties.getProperty("messageProducer");
       String renderer = properties.getProperty("messageRenderer");
