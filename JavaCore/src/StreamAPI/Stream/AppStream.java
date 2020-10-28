@@ -1,6 +1,5 @@
 package StreamAPI.Stream;
 
-import com.sun.xml.internal.ws.util.StringUtils;
 
 import java.util.*;
 
@@ -57,9 +56,9 @@ public class AppStream {
 
 
         List<String> names2 = Arrays.asList("john", "arya", "sansa");
-        names2.stream()
-                .map(StringUtils::capitalize)
-                .forEach(System.out::println); //output John Arya Sansa
+//        names2.stream()
+//                .map(StringUtils::capitalize)
+//                .forEach(System.out::println); //output John Arya Sansa
 
         List<String> names3 = Arrays.asList("John", "Daenerys", "Tyrion", "", null, "Arya");
         names3.stream()

@@ -8,6 +8,7 @@ public class Client {
     ClassLoader cl = man.getClass().getClassLoader();
     Class<?>[] interfaces = man.getClass().getInterfaces();
     Person proxy = (Person) Proxy.newProxyInstance(cl, interfaces, new PersonInvocationHandler(man));
-    proxy.introduce();
+    System.out.println(proxy.getClass());
+    proxy.introduce("E");
   }
 }
