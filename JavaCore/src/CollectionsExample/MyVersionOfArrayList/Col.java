@@ -1,7 +1,5 @@
 package CollectionsExample.MyVersionOfArrayList;
 
-import com.sun.istack.internal.NotNull;
-
 import java.util.Arrays;
 import java.util.Iterator;
 
@@ -15,7 +13,7 @@ public class Col<E> implements Iterable<E> {
         data = new Object[DEFAULT_CAPACITY];
     }
 
-    public Col(@NotNull int initialCapacity) {
+    public Col(int initialCapacity) {
         this.initialCapacity = initialCapacity;
         data = initialCapacity > 0 ? new Object[initialCapacity] :
                 new Object[DEFAULT_CAPACITY];

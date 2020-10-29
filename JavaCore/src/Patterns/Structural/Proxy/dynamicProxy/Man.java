@@ -18,7 +18,8 @@ public class Man implements Person {
   }
 
   @Override
-  public void introduce() {
+  public void introduce(String intro) {
+    System.out.println(intro);
     System.out.println(this.name);
   }
 

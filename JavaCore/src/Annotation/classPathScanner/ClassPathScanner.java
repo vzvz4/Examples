@@ -56,7 +56,7 @@ public class ClassPathScanner {
 //        </dependency>
 
 //    private static void reflectionsScan() {
-//        Reflections reflections = new Reflections(Client.class.getPackage().getName());
+//        Reflections reflections = new Reflections(Server.class.getPackage().getName());
 //        Set<Class<?>> classes = reflections.getTypesAnnotatedWith(Anno.class);
 //
 //        for (Class<?> cls : classes) {

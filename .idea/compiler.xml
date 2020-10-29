@@ -2,21 +2,23 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Netty" />
         <module name="TestDrivenDevelopment" />
-        <module name="PostgresTest" />
-        <module name="MySQLConnector" />
+        <module name="Hibernate" />
         <module name="ApachePOI_Converter_WordToText" />
+        <module name="JsonJackson" />
+        <module name="Netty" />
+        <module name="MySQLConnector" />
+        <module name="PostgresTest" />
         <module name="XMLReader" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Docker" target="1.5" />
-      <module name="Hibernate" target="1.8" />
       <module name="QtJambi" target="1.5" />
     </bytecodeTargetLevel>
   </component>

@@ -2,6 +2,7 @@ package Patterns.Structural.Proxy.dynamicProxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
+import java.util.Arrays;
 
 public class PersonInvocationHandler implements InvocationHandler {
   private Person person;
@@ -12,7 +13,8 @@ public class PersonInvocationHandler implements InvocationHandler {
 
   @Override
   public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
-    System.out.println("Hello");
+    System.out.println("hello");
+    System.out.println(Arrays.toString(args));
     return method.invoke(person, args);
   }
 }
