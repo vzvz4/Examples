@@ -3,8 +3,8 @@ package Arlgorithms.myqueue;
 import java.util.Arrays;
 
 public class MyQueueImpl<E> implements MyQueue<E> {
-    private int size;
-    private E[] data;
+    protected int size;
+    protected E[] data;
 
     private int head;
     private int tail;
@@ -17,7 +17,7 @@ public class MyQueueImpl<E> implements MyQueue<E> {
         data = (E[]) new Object[size];
     }
 
-    @Override
+    @Override //O(1)
     public void insert(E value) {
         if (tail == data.length - 1) {
             tail = DEFAULT_TAIL;
