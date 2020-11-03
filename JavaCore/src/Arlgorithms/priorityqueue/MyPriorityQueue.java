@@ -2,6 +2,8 @@ package Arlgorithms.priorityqueue;
 
 import Arlgorithms.myqueue.MyQueueImpl;
 
+import java.util.Arrays;
+
 public class MyPriorityQueue<E extends Object & Comparable<? super E>> extends MyQueueImpl<E> {
     public MyPriorityQueue(int size) {
         super(size);
@@ -27,5 +29,12 @@ public class MyPriorityQueue<E extends Object & Comparable<? super E>> extends M
     @Override
     public E peekFirst() {
         return data[size - 1];
+    }
+
+    @Override
+    public String toString() {
+        final Object[] tmp = new Object[size];
+        System.arraycopy(data, 0, tmp, 0, size);
+        return Arrays.toString(tmp);
     }
 }
