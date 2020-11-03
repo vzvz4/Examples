@@ -1,9 +1,11 @@
 package Arlgorithms.myqueue;
 
 public interface MyQueue<E> {
-    void push(E value);
-    E pop();
-    E peekFront();
+    void insert(E value);
+
+    E remove();
+
+    E peekFirst();
 
     int size();
 
