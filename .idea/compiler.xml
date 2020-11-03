@@ -3,6 +3,22 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+<<<<<<< HEAD
+=======
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TestDrivenDevelopment" />
+        <module name="Hibernate" />
+        <module name="ApachePOI_Converter_WordToText" />
+        <module name="JsonJackson" />
+        <module name="Netty" />
+        <module name="MySQLConnector" />
+        <module name="PostgresTest" />
+        <module name="XMLReader" />
+      </profile>
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Docker" target="1.5" />

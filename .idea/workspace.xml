@@ -50,13 +50,31 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/ApachePOI_Converter_WordToText/src/main/java/POI.java" beforeDir="false" afterPath="$PROJECT_DIR$/ApachePOI_Converter_WordToText/src/main/java/POI.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/ApachePOI_Converter_WordToText/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ApachePOI_Converter_WordToText/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApachePOI_Converter_WordToText/src/main/java/POI.java" beforeDir="false" afterPath="$PROJECT_DIR$/ApachePOI_Converter_WordToText/src/main/java/POI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker/Docker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Docker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/src/main/java/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/Groovy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Groovy/Groovy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/src/Classes&amp;Interfaces.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/Groovy/src/Classes&amp;Interfaces.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/src/Closure.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/Groovy/src/Closure.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/src/Files.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/Groovy/src/Files.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/src/JavaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Groovy/src/JavaApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/src/Methods.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/Groovy/src/Methods.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/src/Strings.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/Groovy/src/Strings.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/src/Test.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/Groovy/src/Test.groovy" afterDir="false" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
       <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
@@ -68,13 +86,360 @@
       <change beforePath="$PROJECT_DIR$/JavaCore/src/Annotation/classPathScanner/ClassPathScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Annotation/classPathScanner/ClassPathScanner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/MyVersionOfArrayList/Col.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/MyVersionOfArrayList/Col.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaCore/src/Date/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Date/Example.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/build/classes/groovy/test/JavaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/build/classes/groovy/test/JavaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/build/reports/tests/test/classes/JavaTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/build/reports/tests/test/classes/JavaTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/build/test-results/test/TEST-JavaTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/build/test-results/test/TEST-JavaTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/src/main/java/ClassToTestTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/src/main/java/ClassToTestTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/src/test/groovy/JavaTest.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/src/test/groovy/JavaTest.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/.idea/libraries/Hibernate_5_4_11_5_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/.idea/libraries/Hibernate_5_4_11_5_4_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/Hibernate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/src/main/java/owpk/POJOClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/src/main/java/owpk/POJOClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/src/main/java/owpk/POJORunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/src/main/java/owpk/POJORunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/src/main/resources/POJOClass.hml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/src/main/resources/POJOClass.hml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/target/classes/POJOClass.hml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/target/classes/POJOClass.hml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/target/classes/owpk/POJOClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate/target/classes/owpk/POJORunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/JavaCore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/JavaCore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Annotation/classPathScanner/ClassPathScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Annotation/classPathScanner/ClassPathScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Annotation/classPathScanner/testPackage/SomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Annotation/classPathScanner/testPackage/SomeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Annotation/classPathScanner/testPackage/TestAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Annotation/classPathScanner/testPackage/TestAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Arlgorithms/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Arlgorithms/Armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Arlgorithms/FindUniqueElementInList.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Arlgorithms/FindUniqueElementInList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Arlgorithms/SplitStringByUpperCaseLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Arlgorithms/SplitStringByUpperCaseLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/ArrayListE.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/ArrayListE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/Iterator/MyIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/Iterator/MyIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/LinkedListE.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/LinkedListE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/MapE.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/MapE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/MyVersionOfArrayList/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/MyVersionOfArrayList/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/MyVersionOfArrayList/Col.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/MyVersionOfArrayList/Col.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/QueE.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/QueE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/SetE.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/SetE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/StackE.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/CollectionsExample/StackE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/ComparatorComparable/MyComparableClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/ComparatorComparable/MyComparableClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/ComparatorComparable/MyComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/ComparatorComparable/MyComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/CovariantContravariant/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/CovariantContravariant/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/CovariantContravariant/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/CovariantContravariant/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/CovariantContravariant/Optional.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/CovariantContravariant/Optional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Date/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Date/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Encoding/CharsetDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Encoding/CharsetDetector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Encoding/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Encoding/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/EnumExample/AnimalEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/EnumExample/AnimalEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/EnumExample/Season.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/EnumExample/Season.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/EnumExample/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/EnumExample/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/EqualsAndHashCode/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/EqualsAndHashCode/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/EqualsAndHashCode/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/EqualsAndHashCode/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Fibonacci/Fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Fibonacci/Fib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/FinalizeEx/Final.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/FinalizeEx/Final.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/FinalizeEx/Finalize.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/FinalizeEx/Finalize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Generics/Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Generics/Generic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Generics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Generics/SimpleBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Generics/SimpleBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Generics/Stats.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Generics/Stats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/HabrRiddles/Ves.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/HabrRiddles/Ves.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/HabrRiddles/WeigthApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/HabrRiddles/WeigthApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InitializingBlocks/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InitializingBlocks/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex1/AbleToEat.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex1/AbleToEat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex1/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex1/OtherAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex1/OtherAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex2/ClassAnon.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex2/ClassAnon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex2/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/AnonymousClassExample/Ex2/Count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/ExtendFromInner/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/ExtendFromInner/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/ExtendFromInner/K.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/ExtendFromInner/K.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/ExtendFromInner/M.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/ExtendFromInner/M.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/ExtendFromInner/N.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/ExtendFromInner/N.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/InnerClassesExample/OtherExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/InnerClassesExample/OtherExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/LocalInner/Ex1/Om.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/LocalInner/Ex1/Om.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/LocalInner/Ex1/OpenI.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/LocalInner/Ex1/OpenI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/LocalInner/Ex2/ClassLocal.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/LocalInner/Ex2/ClassLocal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/LocalInner/Ex2/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InnerNestedLocalClassesEx/LocalInner/Ex2/Count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InputOutputStreams/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InputOutputStreams/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InputOutputStreams/Serializable/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InputOutputStreams/Serializable/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InputOutputStreams/Serializable/App2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InputOutputStreams/Serializable/App2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InputOutputStreams/demo2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InputOutputStreams/demo2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/Info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/OOPHomeWorks/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/OOPHomeWorks/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/OOPHomeWorks/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/OOPHomeWorks/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/OOPHomeWorks/CourseRunTrack.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/OOPHomeWorks/CourseRunTrack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/OOPHomeWorks/CourseWall.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/OOPHomeWorks/CourseWall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/OOPHomeWorks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/OOPHomeWorks/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/OOPHomeWorks/Robots.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/OOPHomeWorks/Robots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/InterfacesExample/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/JDBC_SQLite/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/JDBC_SQLite/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/JDBC_SQLite/DataBaseHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/JDBC_SQLite/DataBaseHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/JDBC_SQLite/IDataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/JDBC_SQLite/IDataBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/JDBC_SQLite/Query.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/JDBC_SQLite/Query.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/JDBC_SQLite/sqliteDB/sqlite3.def" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/JDBC_SQLite/sqliteDB/sqlite3.def" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/JUnitEx/SomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/JUnitEx/SomeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/JUnitEx/SomeClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/JUnitEx/SomeClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/JavaException/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/JavaException/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/JavaException/DivideByZeroException.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/JavaException/DivideByZeroException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/JavaNIO/NIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/JavaNIO/NIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/JavaNIO/NIOBuffers.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/JavaNIO/NIOBuffers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/JavaNIO/NIOServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/JavaNIO/NIOServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/JavaNIO/NioWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/JavaNIO/NioWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/JavaNIO/folder/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/JavaNIO/folder/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Log4j2Ex/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Log4j2Ex/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Log4j2Ex/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Log4j2Ex/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/ArrayBlockingQueueEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/ArrayBlockingQueueEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/CallableFuture.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/CallableFuture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/CountDownLatchEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/CountDownLatchEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/CyclicBarrierEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/CyclicBarrierEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/DeadLockEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/DeadLockEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/DeadLockEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/DeadLockEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/HomeWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/InterruptedExceptionEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/InterruptedExceptionEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/LockEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/LockEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/PatternProducer_Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/PatternProducer_Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/ReadWriteLockEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/ReadWriteLockEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/ReentrantLockEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/ReentrantLockEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/SemaphoreEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/SemaphoreEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/Synhronized/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/Synhronized/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/Synhronized/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/Synhronized/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/Synhronized/Example3Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/Synhronized/Example3Static.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/Synhronized/SynchronizedExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/Synhronized/SynchronizedExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/ThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/MultiThreading/WaitNNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/MultiThreading/WaitNNotify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/CallBack/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/CallBack/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/CallBack/SomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/CallBack/SomeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Command/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Command/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Command/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Command/CommandHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Command/CommandHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Command/CopyCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Command/CopyCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Command/CutCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Command/CutCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Command/Editor.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Command/Editor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Command/PasteCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Command/PasteCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Command/Read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Command/Read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/ConcreteMediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/ConcreteMediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/Mediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/Read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Mediator/Read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/NullObject/AbsEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/NullObject/AbsEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/NullObject/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/NullObject/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/NullObject/NullObjectEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/NullObject/NullObjectEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/NullObject/ReallyEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/NullObject/ReallyEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Strategy/Apply.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Strategy/Apply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Strategy/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Strategy/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Strategy/Splitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Strategy/Splitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Composite.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Composite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex1_Developers/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex1_Developers/Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex1_Developers/developers/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex1_Developers/developers/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex1_Developers/developers/JuniorDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex1_Developers/developers/JuniorDeveloper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex1_Developers/developers/SeniorDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex1_Developers/developers/SeniorDeveloper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex1_Developers/projectElements/ClassElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex1_Developers/projectElements/ClassElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex1_Developers/projectElements/ProjectElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex1_Developers/projectElements/ProjectElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex1_Developers/projectElements/TestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex1_Developers/projectElements/TestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex2_XMLExporter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex2_XMLExporter/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex2_XMLExporter/elementsToVisit/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex2_XMLExporter/elementsToVisit/Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex2_XMLExporter/elementsToVisit/Pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex2_XMLExporter/elementsToVisit/Pyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex2_XMLExporter/elementsToVisit/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex2_XMLExporter/elementsToVisit/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex2_XMLExporter/visitors/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex2_XMLExporter/visitors/Visitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex2_XMLExporter/visitors/VisitorXMLExporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Ex2_XMLExporter/visitors/VisitorXMLExporter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Leaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Leaf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Behavioral/Visitor/Read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/fabric/DeskWidgetFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/fabric/DeskWidgetFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/fabric/WebWidgetFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/fabric/WebWidgetFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/fabric/WidgetFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/fabric/WidgetFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/scroll/DeskScroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/scroll/DeskScroll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/scroll/ScrollBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/scroll/ScrollBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/scroll/WebScroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/scroll/WebScroll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/window/DeskWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/window/DeskWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/window/WebWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/window/WebWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/window/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/AbstractFactory/window/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Builder/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Builder/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Builder/Cms.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Builder/Cms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Builder/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Builder/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Builder/Read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Builder/Read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Builder/VisitCardWebSiteBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Builder/VisitCardWebSiteBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Builder/WebSiteBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Builder/WebSiteBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Builder/Website.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Builder/Website.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex1/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex1/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex1/Impl1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex1/Impl1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex1/Impl1Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex1/Impl1Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex1/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex1/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex1/ServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex1/ServiceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex2/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex2/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex2/buttons/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex2/buttons/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex2/buttons/HtmlButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex2/buttons/HtmlButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex2/buttons/WindowsButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex2/buttons/WindowsButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex2/dialog/Dialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex2/dialog/Dialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex2/dialog/HtmlDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex2/dialog/HtmlDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex2/dialog/WindowsDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Factory/Ex2/dialog/WindowsDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Prototype/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Prototype/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Prototype/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Prototype/Prototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Prototype/PrototypeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Prototype/PrototypeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Prototype/Read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Prototype/Read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Prototype/SubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Prototype/SubClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Singleton/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Singleton/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Singleton/ConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Creational/Singleton/ConnectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/MessageFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/MessageFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/MessageProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/MessageProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/MessageRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/MessageRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/NewMessageProdImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/NewMessageProdImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/SimpleMessageProdImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/SimpleMessageProdImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/SimpleMessageRendererImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/SimpleMessageRendererImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/app.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/IoC/app.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/ex1/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/ex1/Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/ex1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/ex1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/ex1/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/ex1/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/ex2/AdapterRandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/ex2/AdapterRandomNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/ex2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/ex2/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/ex2/RandomNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/ex2/RandomNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/simpleExemple/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/simpleExemple/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/simpleExemple/Connector.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/simpleExemple/Connector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/simpleExemple/HDMIConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/simpleExemple/HDMIConnector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/simpleExemple/USB.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/simpleExemple/USB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/simpleExemple/USBAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Adapter/simpleExemple/USBAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Bridge/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Bridge/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Bridge/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Bridge/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Bridge/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Bridge/Radio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Bridge/Read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Bridge/Read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Bridge/Remote.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Bridge/Remote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Decorator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Decorator/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Decorator/CompressSourceDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Decorator/CompressSourceDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Decorator/DataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Decorator/DataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Decorator/DataSourceDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Decorator/DataSourceDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Decorator/EncryptionDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Decorator/EncryptionDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Decorator/FileDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Decorator/FileDataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/Forest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/Forest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/Read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/Read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/TreeType.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/TreeType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/TreeTypeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Flyweight/TreeTypeFactory.java" afterDir="false" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
       <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/Read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/Read.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/dynamicProxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/dynamicProxy/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/dynamicProxy/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/dynamicProxy/Man.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/dynamicProxy/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/dynamicProxy/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/dynamicProxy/PersonInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/dynamicProxy/PersonInvocationHandler.java" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/AppStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/AppStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaCore/src/WraperString/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/WraperString/Runner.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/ex1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/ex1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/ex1/downloader/YouTubeDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/ex1/downloader/YouTubeDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/ex1/proxy/YouTubeCacheProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/ex1/proxy/YouTubeCacheProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/ex1/some_cool_media_library/ThirdPartyYouTubeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/ex1/some_cool_media_library/ThirdPartyYouTubeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/ex1/some_cool_media_library/ThirdPartyYouTubeLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/ex1/some_cool_media_library/ThirdPartyYouTubeLib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/ex1/some_cool_media_library/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Proxy/ex1/some_cool_media_library/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Patterns/Structural/Read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Polimorphism/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Polimorphism/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Polimorphism/BadExampleOf/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Polimorphism/BadExampleOf/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Polimorphism/BadExampleOf/Dumb.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Polimorphism/BadExampleOf/Dumb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/ReadMe" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/ReadMe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/ReflectionEx/DefaultAnnotationEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/ReflectionEx/DefaultAnnotationEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/ReflectionEx/ExampleInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/ReflectionEx/ExampleInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/ReflectionEx/Ref.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/ReflectionEx/Ref.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Regex/PatterMatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Regex/PatterMatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Regex/RegularExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Regex/RegularExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Regex/Split.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Regex/Split.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/JavaRushExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/JavaRushExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/example/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/example/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/example/Externalize.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/example/Externalize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/example/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/example/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/example/Serialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/example/Serialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/serialization/ContainerExt.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/serialization/ContainerExt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/serialization/ContainerExt1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/serialization/ContainerExt1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/serialization/ContainerExt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/serialization/ContainerExt2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/serialization/ContainerExt3.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/serialization/ContainerExt3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/serialization/ContainerSer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/serialization/ContainerSer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/serialization/ItemExt.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/serialization/ItemExt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/serialization/ItemSer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/serialization/ItemSer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/serialization/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/SerializeExternalize/serialization/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/SolveMath/Solver.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/SolveMath/Solver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/SortingMethods/SortingMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/SortingMethods/SortingMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Comparter/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Comparter/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/LambdaExample/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/LambdaExample/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/LambdaExample/Executable.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/LambdaExample/Executable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/LambdaExample/TestLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/LambdaExample/TestLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/MethodReference/TransformUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/MethodReference/TransformUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/AppStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/AppStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/FindCountOfRepeatedNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/FindCountOfRepeatedNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/FlatMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/FlatMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/GeekBrainsExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/GeekBrainsExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/GroupingBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/GroupingBy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/HighOrderFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/HighOrderFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/MyStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/MyStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/ParallelStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/ParallelStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/Reduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/Reduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/SortAndReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/SortAndReduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/StreamFunctionPredicateEtc.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/StreamFunctionPredicateEtc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/StreamOverview.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/StreamOverview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/Stream/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamAPI/TimeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamAPI/TimeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StreamReadersWriters/URLReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StreamReadersWriters/URLReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StringFormat/FormatterEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StringFormat/FormatterEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StringFormat/PhoneFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StringFormat/PhoneFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StringsWork/BufferedClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StringsWork/BufferedClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StringsWork/Lesson7_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StringsWork/Lesson7_Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StringsWork/res/BuffOut2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StringsWork/res/BuffOut2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StringsWork/res/BuffOut3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StringsWork/res/BuffOut3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/StringsWork/res/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/StringsWork/res/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/TemperatureConverter/BaseConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/TemperatureConverter/BaseConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/TemperatureConverter/CelsiusConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/TemperatureConverter/CelsiusConvert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/TemperatureConverter/FahrenheitConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/TemperatureConverter/FahrenheitConvert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/TemperatureConverter/KelvinConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/TemperatureConverter/KelvinConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/TemperatureConverter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/TemperatureConverter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/TernaryOperator/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/TernaryOperator/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Test/wrapper/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Test/wrapper/Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Test/wrapper/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Test/wrapper/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Test/wrapper/ConcreeteClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Test/wrapper/ConcreeteClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Test/wrapper/WrappClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Test/wrapper/WrappClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/WraperString/DictionaryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/WraperString/DictionaryBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/WraperString/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/WraperString/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/WraperString/WrapperString.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/WraperString/WrapperString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/libGDXExample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/libGDXExample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQLDB/MySQLDB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/MySQLDB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQLDB/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQLDB/src/main/java/core/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/src/main/java/core/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQLDB/src/main/java/core/ClientManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/src/main/java/core/ClientManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQLDB/src/main/java/core/ConfigParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/src/main/java/core/ConfigParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQLDB/src/main/java/core/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/src/main/java/core/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQLDB/src/main/java/core/ConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/src/main/java/core/ConnectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQLDB/src/main/java/core/connection/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/src/main/java/core/connection/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQLDB/src/main/java/core/connection/MySqlConn.java" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/src/main/java/core/connection/MySqlConn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQLDB/src/main/java/core/connection/PostgresConn.java" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/src/main/java/core/connection/PostgresConn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQLDB/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/src/main/resources/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQLDB/target/classes/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/target/classes/config.xml" afterDir="false" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
       <change beforePath="$PROJECT_DIR$/MySQLDB/target/classes/core/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/target/classes/core/App.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MySQLDB/target/classes/core/ClientManager$CRUDOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/target/classes/core/ClientManager$CRUDOperator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MySQLDB/target/classes/core/ClientManager$Commands.class" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/target/classes/core/ClientManager$Commands.class" afterDir="false" />
@@ -85,6 +450,18 @@
       <change beforePath="$PROJECT_DIR$/MySQLDB/target/classes/core/connection/DBConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/target/classes/core/connection/DBConnection.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MySQLDB/target/classes/core/connection/MySqlConn.class" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/target/classes/core/connection/MySqlConn.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MySQLDB/target/classes/core/connection/PostgresConn.class" beforeDir="false" afterPath="$PROJECT_DIR$/MySQLDB/target/classes/core/connection/PostgresConn.class" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/Netty/src/main/java/POJO/UnixTimePOJO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Netty/src/main/java/POJO/UnixTimePOJO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Netty/src/main/java/client/TimeClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Netty/src/main/java/client/TimeClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Netty/src/main/java/client/TimeClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Netty/src/main/java/client/TimeClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Netty/src/main/java/client/TimeDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Netty/src/main/java/client/TimeDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Netty/src/main/java/client/TimePOJODecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Netty/src/main/java/client/TimePOJODecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Netty/src/main/java/server/EchoServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Netty/src/main/java/server/EchoServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Netty/src/main/java/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/Netty/src/main/java/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Netty/src/main/java/server/TimeEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Netty/src/main/java/server/TimeEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Netty/src/main/java/server/TimeServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Netty/src/main/java/server/TimeServerHandler.java" afterDir="false" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
       <change beforePath="$PROJECT_DIR$/Netty/target/classes/client/TimeClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Netty/target/classes/client/TimeClient$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Netty/target/classes/client/TimeClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/Netty/target/classes/client/TimeClient.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Netty/target/classes/client/TimeClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/Netty/target/classes/client/TimeClientHandler.class" afterDir="false" />
@@ -92,7 +469,29 @@
       <change beforePath="$PROJECT_DIR$/Netty/target/classes/server/Server$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Netty/target/classes/server/Server$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Netty/target/classes/server/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/Netty/target/classes/server/Server.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Netty/target/classes/server/TimeServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/Netty/target/classes/server/TimeServerHandler.class" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/PostgresDB/target/classes/App.class" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/Parser/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Parser/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parser/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Parser/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parser/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Parser/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parser/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Parser/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parser/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Parser/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parser/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Parser/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parser/Parser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Parser/Parser.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parser/src/main/java/Parserzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/Parser/src/main/java/Parserzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostgresDB/PostgresDB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresDB/PostgresDB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostgresDB/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresDB/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostgresDB/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresDB/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostgresDB/target/classes/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QtJambi/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/QtJambi/src/main/java/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDrivenDevelopment/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestDrivenDevelopment/src/main/java/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDrivenDevelopment/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestDrivenDevelopment/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XMLReader/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XMLReader/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XMLReader/src/main/java/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/XMLReader/src/main/java/Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XMLReader/src/main/resources/BookCatalog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XMLReader/src/main/resources/BookCatalog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XMLReader/target/classes/BookCatalog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XMLReader/target/classes/BookCatalog.xml" afterDir="false" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
       <change beforePath="$PROJECT_DIR$/XMLReader/target/classes/Reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/XMLReader/target/classes/Reader.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,7 +560,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -242,13 +641,19 @@
       <recent name="C:\Users\vzvz4\Desktop\PAPKA\GitHub\Examples\JavaCore\src\Patterns\Structural\Flyweight" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Filik">
     <configuration name="Calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test.Calendar" />
+=======
+  <component name="RunManager" selected="Application.Client (2)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arlgorithms.myqueue.Client" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="Arlgorithms.myqueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +661,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simple.Client" />
       <module name="JsonJackson" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="simple.*" />
+=======
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arlgorithms.priorityqueue.Client" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arlgorithms.priorityqueue.*" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,12 +683,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test.Client" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Test.*" />
+=======
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arlgorithms.mystack.Client" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arlgorithms.mystack.*" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,12 +705,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Filik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arlgorithms.Filik" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Arlgorithms.*" />
+=======
+    <configuration name="Coller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Coller" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,12 +727,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="NewTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test.NewTest" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Test.*" />
+=======
+    <configuration name="Filik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arlgorithms.Filik" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arlgorithms.*" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,6 +750,12 @@
       </method>
     </configuration>
     <list>
+<<<<<<< HEAD
+=======
+      <item itemvalue="Application.Filik" />
+      <item itemvalue="Application.Coller" />
+      <item itemvalue="Application.Client" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
       <item itemvalue="Application.Client (1)" />
       <item itemvalue="Application.Client (4)" />
       <item itemvalue="Application.NewTest" />
@@ -322,6 +769,12 @@
         <item itemvalue="Application.NewTest" />
         <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (1)" />
+<<<<<<< HEAD
+=======
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Coller" />
+        <item itemvalue="Application.Filik" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
       </list>
     </recent_temporary>
   </component>
@@ -523,12 +976,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="766" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1599243150738" />
+<<<<<<< HEAD
     <state x="806" y="115" key="#com.intellij.ide.util.MemberChooser" timestamp="1602503398527">
       <screen x="0" y="0" width="1920" height="1080" />
+=======
+    <state x="704" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1604398698691">
+      <screen x="0" y="32" width="1676" height="911" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
     </state>
     <state x="645" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1600157357053" />
     <state x="806" y="111" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600253130069" />
     <state x="806" y="115" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1602503398527" />
+<<<<<<< HEAD
+=======
+    <state x="704" y="129" key="#com.intellij.ide.util.MemberChooser/0.32.1676.911@0.32.1676.911" timestamp="1604398698691" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
     <state x="369" y="319" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600530505560">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -554,12 +1016,17 @@
     <state x="296" y="281" width="604" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1596433299624" />
     <state x="328" y="420" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1600777875535">
       <screen x="0" y="0" width="1920" height="1080" />
+<<<<<<< HEAD
     </state>
     <state x="328" y="420" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1080@0.0.1920.1080" timestamp="1600777875535" />
     <state x="419" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595442427662">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="419" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1595442427662" />
+=======
+    </state>
+    <state x="328" y="420" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1080@0.0.1920.1080" timestamp="1600777875535" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
     <state x="1173" y="123" key="#xdebugger.evaluate" timestamp="1603373186540">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -571,6 +1038,7 @@
     <state x="468" y="152" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600152807924" />
     <state x="585" y="192" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600245400819" />
     <state x="585" y="199" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602503963546" />
+<<<<<<< HEAD
     <state width="1254" height="280" key="GridCell.Tab.0.bottom" timestamp="1603860187688">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -626,6 +1094,67 @@
     <state width="977" height="291" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600159218424" />
     <state width="977" height="291" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600233850111" />
     <state width="1260" height="402" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601099460104" />
+=======
+    <state width="747" height="233" key="GridCell.Tab.0.bottom" timestamp="1604398977821">
+      <screen x="0" y="32" width="1676" height="911" />
+    </state>
+    <state width="977" height="291" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600159218423" />
+    <state width="1232" height="177" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600265110797" />
+    <state width="1095" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1603920905851" />
+    <state width="1254" height="280" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1603860187688" />
+    <state width="747" height="233" key="GridCell.Tab.0.bottom/0.32.1676.911@0.32.1676.911" timestamp="1604398977821" />
+    <state width="747" height="233" key="GridCell.Tab.0.center" timestamp="1604398977821">
+      <screen x="0" y="32" width="1676" height="911" />
+    </state>
+    <state width="977" height="291" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600159218423" />
+    <state width="1232" height="177" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600265110797" />
+    <state width="1095" height="351" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1603920905850" />
+    <state width="1254" height="280" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1603860187687" />
+    <state width="747" height="233" key="GridCell.Tab.0.center/0.32.1676.911@0.32.1676.911" timestamp="1604398977821" />
+    <state width="747" height="233" key="GridCell.Tab.0.left" timestamp="1604398977821">
+      <screen x="0" y="32" width="1676" height="911" />
+    </state>
+    <state width="977" height="291" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600159218423" />
+    <state width="1232" height="177" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600265110797" />
+    <state width="1095" height="351" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1603920905850" />
+    <state width="1254" height="280" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1603860187687" />
+    <state width="747" height="233" key="GridCell.Tab.0.left/0.32.1676.911@0.32.1676.911" timestamp="1604398977821" />
+    <state width="747" height="233" key="GridCell.Tab.0.right" timestamp="1604398977821">
+      <screen x="0" y="32" width="1676" height="911" />
+    </state>
+    <state width="977" height="291" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600159218423" />
+    <state width="1232" height="177" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600265110797" />
+    <state width="1095" height="351" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603920905850" />
+    <state width="1254" height="280" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1603860187688" />
+    <state width="747" height="233" key="GridCell.Tab.0.right/0.32.1676.911@0.32.1676.911" timestamp="1604398977821" />
+    <state width="1095" height="351" key="GridCell.Tab.1.bottom" timestamp="1603920905853">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="977" height="291" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600159218424" />
+    <state width="977" height="291" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600233850112" />
+    <state width="1095" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1603920905853" />
+    <state width="1254" height="347" key="GridCell.Tab.1.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1603859971066" />
+    <state width="1095" height="351" key="GridCell.Tab.1.center" timestamp="1603920905851">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="977" height="291" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600159218423" />
+    <state width="977" height="291" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600233850111" />
+    <state width="1095" height="351" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1603920905851" />
+    <state width="1254" height="347" key="GridCell.Tab.1.center/0.30.1920.1050@0.30.1920.1050" timestamp="1603859971066" />
+    <state width="1095" height="351" key="GridCell.Tab.1.left" timestamp="1603920905851">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="977" height="291" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600159218423" />
+    <state width="977" height="291" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600233850111" />
+    <state width="1095" height="351" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1603920905851" />
+    <state width="1254" height="347" key="GridCell.Tab.1.left/0.30.1920.1050@0.30.1920.1050" timestamp="1603859971066" />
+    <state width="1095" height="351" key="GridCell.Tab.1.right" timestamp="1603920905852">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="977" height="291" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600159218424" />
+    <state width="977" height="291" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600233850111" />
+    <state width="1095" height="351" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603920905852" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
     <state width="1254" height="347" key="GridCell.Tab.1.right/0.30.1920.1050@0.30.1920.1050" timestamp="1603859971066" />
     <state width="230" height="499" key="HiddenNamespacesPopup" timestamp="1600522305890">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -650,6 +1179,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="232" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600233761456" />
+<<<<<<< HEAD
+=======
+    <state x="304" y="420" width="540" height="198" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1603920771753">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="304" y="420" width="540" height="198" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1603920771753" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
     <state x="211" y="287" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603373137877">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -673,6 +1209,7 @@
     </state>
     <state x="396" y="427" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1599350736715" />
     <state x="495" y="574" key="run.anything.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1603371789372" />
+<<<<<<< HEAD
     <state x="433" y="114" width="945" height="967" key="search.everywhere.popup" timestamp="1603371675514">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -680,6 +1217,15 @@
     <state x="433" y="83" width="945" height="957" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600252435062" />
     <state x="433" y="86" width="945" height="994" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1600521162213" />
     <state x="433" y="114" width="945" height="967" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1603371675514" />
+=======
+    <state x="378" y="105" width="825" height="839" key="search.everywhere.popup" timestamp="1604390653902">
+      <screen x="0" y="32" width="1676" height="911" />
+    </state>
+    <state x="433" y="83" width="945" height="957" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600252435062" />
+    <state x="433" y="86" width="945" height="994" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1600521162213" />
+    <state x="433" y="114" width="945" height="967" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1603371675514" />
+    <state x="378" y="105" width="825" height="839" key="search.everywhere.popup/0.32.1676.911@0.32.1676.911" timestamp="1604390653902" />
+>>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
