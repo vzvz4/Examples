@@ -1,0 +1,11 @@
+farm_id: &farm_id 15
+wallet_id: &wallet_id
+endpoint:
+  root: http://localhost:7070
+  wallet:
+    wallet_list: ['/farm/', *farm_id, '/wallets']
+user:
+  login: owpk
+  password: 178UeeE34+
+  two_auth:
+  remember:

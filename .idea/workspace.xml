@@ -23,33 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="176936f8-be86-4f87-90b4-498953b16176" name="Default Changelist" comment="Refactor and update collections example (completed version)">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Hibernate/src/main/resources/postgres/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Arlgorithms/Filik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/RMI/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/RMI/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/RMI/ReverseImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/RMI/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/RMI/Servs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Test/Calendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Test/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Test/Coller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore/src/Test/NewTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JsonJackson/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JsonJackson/src/main/java/inheritance/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JsonJackson/src/main/java/inheritance/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JsonJackson/src/main/java/inheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JsonJackson/src/main/java/inheritance/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JsonJackson/src/main/java/inheritance/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JsonJackson/src/main/java/simple/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JsonJackson/src/main/java/simple/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JsonJackson/src/main/java/simple/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JsonJackson/src/main/java/simple/Garage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yaml/Yaml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yaml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yaml/src/main/java/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yaml/src/main/resources/example.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
 <<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/ApachePOI_Converter_WordToText/src/main/java/POI.java" beforeDir="false" afterPath="$PROJECT_DIR$/ApachePOI_Converter_WordToText/src/main/java/POI.java" afterDir="false" />
 =======
@@ -103,6 +85,11 @@
       <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/src/main/java/ClassToTestTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/src/main/java/ClassToTestTo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/src/test/groovy/JavaTest.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/src/test/groovy/JavaTest.groovy" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyJUnitTest/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+>>>>>>> feature
       <change beforePath="$PROJECT_DIR$/Hibernate/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hibernate/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hibernate/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/.idea/dataSources.xml" afterDir="false" />
@@ -125,6 +112,7 @@
       <change beforePath="$PROJECT_DIR$/Hibernate/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate/target/classes/hibernate.cfg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hibernate/target/classes/owpk/POJOClass.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Hibernate/target/classes/owpk/POJORunner.class" beforeDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/JavaCore/JavaCore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/JavaCore.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaCore/src/Annotation/classPathScanner/ClassPathScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Annotation/classPathScanner/ClassPathScanner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaCore/src/Annotation/classPathScanner/testPackage/SomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Annotation/classPathScanner/testPackage/SomeClass.java" afterDir="false" />
@@ -493,6 +481,9 @@
       <change beforePath="$PROJECT_DIR$/XMLReader/target/classes/BookCatalog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XMLReader/target/classes/BookCatalog.xml" afterDir="false" />
 >>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
       <change beforePath="$PROJECT_DIR$/XMLReader/target/classes/Reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/XMLReader/target/classes/Reader.class" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/Test/Coller.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/Test/Coller.java" afterDir="false" />
+>>>>>>> feature
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -560,7 +551,11 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+<<<<<<< HEAD
         <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+=======
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+>>>>>>> feature
       </MavenGeneralSettings>
     </option>
   </component>
@@ -642,7 +637,11 @@
     </key>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Filik">
+=======
+  <component name="RunManager" selected="Application.Coller">
+>>>>>>> feature
     <configuration name="Calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test.Calendar" />
 =======
@@ -662,6 +661,7 @@
       </method>
     </configuration>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simple.Client" />
       <module name="JsonJackson" />
@@ -679,13 +679,23 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+=======
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="Yaml" />
+>>>>>>> feature
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test.Client" />
+=======
+    <configuration name="Coller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Coller" />
+>>>>>>> feature
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
@@ -751,6 +761,7 @@
     </configuration>
     <list>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       <item itemvalue="Application.Filik" />
       <item itemvalue="Application.Coller" />
@@ -758,15 +769,22 @@
 >>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
       <item itemvalue="Application.Client (1)" />
       <item itemvalue="Application.Client (4)" />
+=======
+>>>>>>> feature
       <item itemvalue="Application.NewTest" />
       <item itemvalue="Application.Calendar" />
       <item itemvalue="Application.Filik" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Coller" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Coller" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.Filik" />
         <item itemvalue="Application.Calendar" />
         <item itemvalue="Application.NewTest" />
+<<<<<<< HEAD
         <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (1)" />
 <<<<<<< HEAD
@@ -775,6 +793,8 @@
         <item itemvalue="Application.Coller" />
         <item itemvalue="Application.Filik" />
 >>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
+=======
+>>>>>>> feature
       </list>
     </recent_temporary>
   </component>
@@ -972,11 +992,15 @@
     </state>
     <state x="94" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600254202292" />
     <state x="94" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600530515957" />
-    <state x="766" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599243150738">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="956" y="262" width="447" height="377" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604164225463">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="766" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1599243150738" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <state x="956" y="262" width="447" height="377" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1604164225463" />
+>>>>>>> feature
     <state x="806" y="115" key="#com.intellij.ide.util.MemberChooser" timestamp="1602503398527">
       <screen x="0" y="0" width="1920" height="1080" />
 =======
@@ -1019,6 +1043,7 @@
 <<<<<<< HEAD
     </state>
     <state x="328" y="420" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1080@0.0.1920.1080" timestamp="1600777875535" />
+<<<<<<< HEAD
     <state x="419" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595442427662">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1027,6 +1052,8 @@
     </state>
     <state x="328" y="420" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1080@0.0.1920.1080" timestamp="1600777875535" />
 >>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
+=======
+>>>>>>> feature
     <state x="1173" y="123" key="#xdebugger.evaluate" timestamp="1603373186540">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -1039,60 +1066,66 @@
     <state x="585" y="192" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600245400819" />
     <state x="585" y="199" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602503963546" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <state width="1254" height="280" key="GridCell.Tab.0.bottom" timestamp="1603860187688">
       <screen x="0" y="30" width="1920" height="1050" />
+=======
+    <state width="903" height="284" key="GridCell.Tab.0.bottom" timestamp="1604164406788">
+      <screen x="0" y="0" width="1920" height="1080" />
+>>>>>>> feature
     </state>
     <state width="977" height="291" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600159218423" />
     <state width="1232" height="177" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600265110797" />
-    <state width="1260" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602503919935" />
+    <state width="903" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1604164406788" />
     <state width="1254" height="280" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1603860187688" />
-    <state width="1254" height="280" key="GridCell.Tab.0.center" timestamp="1603860187687">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="903" height="284" key="GridCell.Tab.0.center" timestamp="1604164406787">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="977" height="291" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600159218423" />
     <state width="1232" height="177" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600265110797" />
-    <state width="1260" height="293" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602503919934" />
+    <state width="903" height="284" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1604164406787" />
     <state width="1254" height="280" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1603860187687" />
-    <state width="1254" height="280" key="GridCell.Tab.0.left" timestamp="1603860187687">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="903" height="284" key="GridCell.Tab.0.left" timestamp="1604164406787">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="977" height="291" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600159218423" />
     <state width="1232" height="177" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600265110797" />
-    <state width="1260" height="293" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602503919934" />
+    <state width="903" height="284" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1604164406787" />
     <state width="1254" height="280" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1603860187687" />
-    <state width="1254" height="280" key="GridCell.Tab.0.right" timestamp="1603860187688">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="903" height="284" key="GridCell.Tab.0.right" timestamp="1604164406787">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="977" height="291" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600159218423" />
     <state width="1232" height="177" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600265110797" />
-    <state width="1260" height="293" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602503919934" />
+    <state width="903" height="284" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604164406787" />
     <state width="1254" height="280" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1603860187688" />
-    <state width="1254" height="347" key="GridCell.Tab.1.bottom" timestamp="1603859971066">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="903" height="351" key="GridCell.Tab.1.bottom" timestamp="1604164335745">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="977" height="291" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600159218424" />
     <state width="977" height="291" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600233850112" />
-    <state width="1260" height="402" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601099460104" />
+    <state width="903" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1604164335745" />
     <state width="1254" height="347" key="GridCell.Tab.1.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1603859971066" />
-    <state width="1254" height="347" key="GridCell.Tab.1.center" timestamp="1603859971066">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="903" height="351" key="GridCell.Tab.1.center" timestamp="1604164335744">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="977" height="291" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600159218423" />
     <state width="977" height="291" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600233850111" />
-    <state width="1260" height="402" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601099460104" />
+    <state width="903" height="351" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1604164335744" />
     <state width="1254" height="347" key="GridCell.Tab.1.center/0.30.1920.1050@0.30.1920.1050" timestamp="1603859971066" />
-    <state width="1254" height="347" key="GridCell.Tab.1.left" timestamp="1603859971066">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="903" height="351" key="GridCell.Tab.1.left" timestamp="1604164335744">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="977" height="291" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600159218423" />
     <state width="977" height="291" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600233850111" />
-    <state width="1260" height="402" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601099460104" />
+    <state width="903" height="351" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1604164335744" />
     <state width="1254" height="347" key="GridCell.Tab.1.left/0.30.1920.1050@0.30.1920.1050" timestamp="1603859971066" />
-    <state width="1254" height="347" key="GridCell.Tab.1.right" timestamp="1603859971066">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="903" height="351" key="GridCell.Tab.1.right" timestamp="1604164335745">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="977" height="291" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600159218424" />
     <state width="977" height="291" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600233850111" />
+<<<<<<< HEAD
     <state width="1260" height="402" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601099460104" />
 =======
     <state width="747" height="233" key="GridCell.Tab.0.bottom" timestamp="1604398977821">
@@ -1155,6 +1188,9 @@
     <state width="977" height="291" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600233850111" />
     <state width="1095" height="351" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603920905852" />
 >>>>>>> f038b07a2d68d466d1b619fc9c7cac84c6b6ba43
+=======
+    <state width="903" height="351" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604164335745" />
+>>>>>>> feature
     <state width="1254" height="347" key="GridCell.Tab.1.right/0.30.1920.1050@0.30.1920.1050" timestamp="1603859971066" />
     <state width="230" height="499" key="HiddenNamespacesPopup" timestamp="1600522305890">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -1198,24 +1234,29 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state width="600" height="428" key="javadoc.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1603647307774" />
-    <state x="285" y="41" key="new project wizard" timestamp="1601035253363">
+    <state x="283" y="23" width="1125" height="579" key="new project wizard" timestamp="1604136116947">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="228" y="31" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1599740812927" />
     <state x="285" y="39" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600507210837" />
-    <state x="285" y="41" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1601035253363" />
+    <state x="283" y="23" width="1125" height="579" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1604136116947" />
     <state x="495" y="574" key="run.anything.popup" timestamp="1603371789372">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="396" y="427" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1599350736715" />
     <state x="495" y="574" key="run.anything.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1603371789372" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <state x="433" y="114" width="945" height="967" key="search.everywhere.popup" timestamp="1603371675514">
       <screen x="0" y="30" width="1920" height="1050" />
+=======
+    <state x="433" y="86" width="945" height="994" key="search.everywhere.popup" timestamp="1604140039065">
+      <screen x="0" y="0" width="1920" height="1080" />
+>>>>>>> feature
     </state>
     <state x="346" y="66" width="756" height="758" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595673437721" />
     <state x="433" y="83" width="945" height="957" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600252435062" />
-    <state x="433" y="86" width="945" height="994" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1600521162213" />
+    <state x="433" y="86" width="945" height="994" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1604140039065" />
     <state x="433" y="114" width="945" height="967" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1603371675514" />
 =======
     <state x="378" y="105" width="825" height="839" key="search.everywhere.popup" timestamp="1604390653902">
@@ -1341,6 +1382,11 @@
           <url>file://$PROJECT_DIR$/JavaCore/src/Arlgorithms/Filik.java</url>
           <line>7</line>
           <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaCore/src/Test/Coller.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="107" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
