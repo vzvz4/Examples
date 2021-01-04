@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="JavaTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-09-04T18:15:05" hostname="OWPK-Q" time="0.072">
-  <properties/>
-  <testcase name="testConcatenationWithEmptyList" classname="JavaTest" time="0.066"/>
-  <testcase name="testConcatenation" classname="JavaTest" time="0.006"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

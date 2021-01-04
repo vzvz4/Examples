@@ -8,6 +8,22 @@ public class Calendar {
         System.out.println(
                 pattern.matcher(
                         "$2y$11$H7RMGWLES6N5MJJYChfu2uXt.agiR5klltgqxw8jvpY6PY/CGTX8e")
-                        .matches());
+                       .matches());
+
+//        data[{Entity}, {Entity}]
+//        {
+//            "entities" : [{
+//                "objectName" : "wallet"
+//                "filterBy" : [{"name" : "ethkraken"}]
+//                "fieldsToShow" : ["name","pool_balances]
+//                "entitiesToShow" : [{
+//                    "objectName" : "pool_balances"
+//                    "filterBy" : [{"pool" : "hiveon"}]
+//                    "fieldsToShow" : ["name", ""]
+//                }]
+//            }
+//        }]
+
+
     }
 }

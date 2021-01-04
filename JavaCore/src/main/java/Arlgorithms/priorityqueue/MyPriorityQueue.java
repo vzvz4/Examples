@@ -1,6 +1,6 @@
 package Arlgorithms.priorityqueue;
 
-import Arlgorithms.myqueue.MyQueueImpl;
+import Arlgorithms.queue.MyQueueImpl;
 
 import java.util.Arrays;
 
