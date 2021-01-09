@@ -27,7 +27,6 @@ public class ClassPathScanner {
                 .flatMap(x -> (findAnno(x, packageName)).stream())
                 .filter(x -> x.isAnnotationPresent(TestAnnotation.class))
                 .collect(Collectors.toMap(y -> y, x -> x.getAnnotation(TestAnnotation.class)));
-
         an.forEach((key, value) -> System.out.println(key.getName() + " : " + value));
     }
 
