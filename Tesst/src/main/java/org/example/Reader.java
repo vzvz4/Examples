@@ -1,23 +1,26 @@
 package org.example;
 
-import java.lang.reflect.InvocationTargetException;
-import java.lang.reflect.Method;
-import java.util.Arrays;
-import java.util.HashMap;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Reader {
-   public static void main(String[] args) throws InvocationTargetException, IllegalAccessException {
-      Reader reader = new Reader();
-      ClassLoader cl = reader.getClass().getClassLoader();
-      Method[] methods = cl.getClass().getMethods();
-      for (Method method : methods) {
-         if (method.getParameterCount() == 0 &&
-                 method.getName().startsWith("get") &&
-                 method.getReturnType() != void.class) {
-            System.out.print(method.getName() + " : ");
-            System.out.println(method.invoke(cl));
-         }
-      }
 
+   static class A {}
+   static class B extends A {}
+   static class C extends B {}
+   static class D extends A {}
+
+   // Producer
+   static void add(List<? super B> list, B a) {
+      list.add(a);
+      for (Object o : list) {
+         System.out.println(o);
+      }
+   }
+
+   public static void main(String[] args) {
+      List<B> list = new ArrayList<>();
+      list.add(new C());
+      add(list, new C());
    }
 }
