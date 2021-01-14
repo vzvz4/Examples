@@ -1,0 +1,10 @@
+{
+    id : primary_key, integer
+    product_name : string
+    price : double
+    quantity : integer
+}
+
+123     asd                           333.00  44
+19847   Самолет                       132     22  
+19847983Самолет сутулый               132.88  15  
