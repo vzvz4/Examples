@@ -1,7 +1,7 @@
 package Algorithms.GeekBrains.lesson3.deque;
 
 
-import ru.geekbrains.ads.lesson3.myqueue.Queue;
+import Algorithms.GeekBrains.lesson3.myqueue.Queue;
 
 public interface Deque<E> extends Queue<E> {
 

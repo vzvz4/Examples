@@ -1,45 +1,202 @@
 package org.example;
 
-import java.lang.ref.SoftReference;
-import java.lang.reflect.Constructor;
-import java.lang.reflect.InvocationTargetException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class Test {
 
-    public static class TestClass<T> {
+    public static void main(String[] args) throws NoSuchFieldException, IllegalAccessException {
+        Test test = new Test(6);
+        test.addVertex("A");
+        test.addVertex("B");
+        test.addVertex("C");
+        test.addVertex("D");
+        test.addVertex("E");
+        test.addVertex("F");
 
-        private T value1;
-        public T value2;
+        test.addEdge("A", "B", "C", "D");
+        test.addEdge("B", "E");
+        test.addEdge("E", "F");
 
-        public void printValues() {
-            System.out.println(value1);
-            System.out.println(value2);
+        //   / B - E - F
+        // A - C
+        //   \ D
+
+        // Expected A B E F C D
+        test.dfs("A");
+
+        System.out.println("----------------------");
+
+        // Expected A B C D E F
+        test.bfs("A");
+
+        test.findTheShortestWay("C", "D");
+    }
+
+    private static class Vertex {
+        private String label;
+        private boolean visited;
+        private Vertex previous;
+
+        public Vertex(String label, boolean visited) {
+            this.label = label;
+            this.visited = visited;
         }
 
-        public static <T> TestClass<T> createAndAdd2Values(Object o1, Object o2) {
-            TestClass<T> result = new TestClass<>();
-            result.value1 = (T) o1;
-            result.value2 = (T) o2;
-            return result;
+        @Override
+        public String toString() {
+            return "Vertex{" +
+                    "label='" + label + '\'' +
+                    '}';
         }
 
-        public static void main(String[] args) {
-            Double d = 22.111;
-            String s = "Test String";
-            TestClass<Integer> test = createAndAdd2Values(d, s);
-
-            test.printValues();
-            Class<?> clazz = test.value1.getClass();
-            System.out.println(clazz);
-            System.out.println(test.value1.getClass());
-            Object x[] = new String[3];
-            x[0] = 222;
-
+        @Override
+        public boolean equals(Object o) {
+            if (this == o) return true;
+            if (o == null || getClass() != o.getClass()) return false;
+            Vertex vertex = (Vertex) o;
+            return Objects.equals(label, vertex.label);
         }
+
+        @Override
+        public int hashCode() {
+            return Objects.hash(label);
+        }
+    }
+
+    private final List<Vertex> vertexList;
+    private int[][] adjMatrix;
+    private final int MAX_VERTEXES;
+
+    public Test(int maxVertexes) {
+        MAX_VERTEXES = maxVertexes;
+        this.vertexList = new ArrayList<>();
+        adjMatrix = new int[maxVertexes][maxVertexes];
+    }
+
+    public void addVertex(String label) {
+        if (vertexList.size() < MAX_VERTEXES)
+        vertexList.add(new Vertex(label, false));
+        else throw new IllegalArgumentException("Max size reached: " + MAX_VERTEXES);
+    }
+
+    public void addEdge(String startLabel, String endLabel) {
+        int start = findIndex(startLabel);
+        int end = findIndex(endLabel);
+        adjMatrix[start][end] = 1;
+        adjMatrix[end][start] = 1;
+    }
+
+    public void addEdge(String startLabel, String endLabel, String... more) {
+        addEdge(startLabel, endLabel);
+        for (String s : more) {
+            addEdge(startLabel, s);
+        }
+    }
+
+    private int findIndex(String label) {
+        return vertexList.indexOf(new Vertex(label, true));
+    }
+
+
+    public void findTheShortestWay(String start, String end) {
+        Vertex startVertex = vertexList.get(findIndex(start));
+        Vertex endVertex = vertexList.get(findIndex(end));
+        Queue<Vertex> queue = new ArrayDeque<>();
+        createPath(startVertex, endVertex, startVertex, queue);
+    }
+
+    private void createPath(Vertex start, Vertex end, Vertex root, Queue<Vertex> queue) {
+        start.visited = true;
+        queue.add(start);
+
+        if (start.equals(end)) {
+            printPath(root, end.label);
+            return;
+        }
+
+        while (!queue.isEmpty()) {
+            Vertex last = queue.peek();
+            int ind = getUnvisitedVertex(findIndex(last.label));
+            if (ind != -1) {
+                start = vertexList.get(ind);
+                start.previous = root;
+                createPath(start, end, root, queue);
+            } else {
+                queue.remove();
+                root = queue.peek();
+            }
+        }
+    }
+
+    private void printPath(Vertex root, String endPoint) {
+        Stack<String> stack = new Stack<>();
+        Vertex curr = root;
+        while (curr != null) {
+            stack.add(curr.label);
+            curr = curr.previous;
+        }
+        while (!stack.isEmpty()) {
+            System.out.print(stack.pop() + " -> ");
+        }
+        System.out.print(endPoint + "\n");
+    }
+
+    public void dfs(String startLabel) {
+        Stack<Vertex> stack = new Stack<>();
+        Vertex start = vertexList.get(findIndex(startLabel));
+        start.visited = true;
+        System.out.println(start);
+        stack.push(start);
+
+        while (!stack.isEmpty()) {
+            Vertex current = stack.peek();
+            int curInd = findIndex(current.label);
+            int unvisitedInd = getUnvisitedVertex(curInd);
+            if (unvisitedInd != -1) {
+                Vertex next = vertexList.get(unvisitedInd);
+                System.out.println(next);
+                next.visited = true;
+                stack.push(next);
+            } else {
+                stack.pop();
+            }
+        }
+        resetState();
+    }
+
+    public void bfs(String startLabel) {
+        Queue<Vertex> queue = new ArrayDeque<>();
+        Vertex start = vertexList.get(findIndex(startLabel));
+        start.visited = true;
+        System.out.println(start);
+        queue.add(start);
+
+        while (!queue.isEmpty()) {
+             Vertex current = queue.element();
+             int ind = getUnvisitedVertex(findIndex(current.label));
+             if (ind != -1) {
+                 Vertex next = vertexList.get(ind);
+                 next.visited = true;
+                 System.out.println(next);
+                 queue.add(next);
+             } else {
+                 queue.poll();
+             }
+        }
+        resetState();
+    }
+
+    private void resetState() {
+        vertexList.forEach(x -> x.visited = false);
+    }
+
+    private int getUnvisitedVertex(int ver){
+        for (int i = 0; i < vertexList.size(); i++) {
+            if(adjMatrix[ver][i] == 1 && !vertexList.get(i).visited){
+                return i;
+            }
+        }
+        return -1;
     }
 
 }

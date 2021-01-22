@@ -1,10 +1,10 @@
-package ru.geekbrains.ads.lesson3;
+package Algorithms.GeekBrains.lesson3;
 
-import ru.geekbrains.ads.lesson3.myqueue.PriorityQueue;
-import ru.geekbrains.ads.lesson3.myqueue.Queue;
-import ru.geekbrains.ads.lesson3.myqueue.QueueImpl;
-import ru.geekbrains.ads.lesson3.mystack.Stack;
-import ru.geekbrains.ads.lesson3.mystack.StackImpl;
+
+import Algorithms.GeekBrains.lesson3.myqueue.PriorityQueue;
+import Algorithms.GeekBrains.lesson3.myqueue.Queue;
+import Algorithms.GeekBrains.lesson3.mystack.Stack;
+import Algorithms.GeekBrains.lesson3.mystack.StackImpl;
 
 public class Test {
 

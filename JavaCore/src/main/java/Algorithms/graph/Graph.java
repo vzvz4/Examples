@@ -3,148 +3,109 @@ package Algorithms.graph;
 import java.util.*;
 
 public class Graph {
-    private final List<Vertex> vertexList;
-    private final boolean[][] adjMatrix;
 
-    public Graph(int maxVertexCount) {
-        this.vertexList = new ArrayList<>(maxVertexCount);
-        this.adjMatrix = new boolean[maxVertexCount][maxVertexCount];
+    private static class Vertex {
+        private String label;
+        private boolean visited;
+        private Vertex previous;
+
+        public Vertex(String label, boolean visited) {
+            this.label = label;
+            this.visited = visited;
+        }
+
+        @Override
+        public String toString() {
+            return "Vertex{" +
+                    "label='" + label + '\'' +
+                    '}';
+        }
+
+        @Override
+        public boolean equals(Object o) {
+            if (this == o) return true;
+            if (o == null || getClass() != o.getClass()) return false;
+            Vertex vertex = (Vertex) o;
+            return Objects.equals(label, vertex.label);
+        }
+
+        @Override
+        public int hashCode() {
+            return Objects.hash(label);
+        }
+    }
+
+    private final List<Vertex> vertexList;
+    private int[][] adjMatrix;
+    private final int MAX_VERTEXES;
+
+    public Graph(int maxVertexes) {
+        MAX_VERTEXES = maxVertexes;
+        this.vertexList = new ArrayList<>();
+        adjMatrix = new int[maxVertexes][maxVertexes];
     }
 
     public void addVertex(String label) {
-        vertexList.add(new Vertex(label));
+        if (vertexList.size() < MAX_VERTEXES)
+            vertexList.add(new Vertex(label, false));
+        else throw new IllegalArgumentException("Max size reached: " + MAX_VERTEXES);
     }
 
     public void addEdge(String startLabel, String endLabel) {
-        int startIndex = indexOf(startLabel);
-        int endIndex = indexOf(endLabel);
-        if (startIndex == -1 || endIndex == -1) {
-            throw new IllegalArgumentException("Invalid label for vetex");
-        }
-        adjMatrix[startIndex][endIndex] = true;
-        adjMatrix[endIndex][startIndex] = true;
+        int start = findIndex(startLabel);
+        int end = findIndex(endLabel);
+        adjMatrix[start][end] = 1;
+        adjMatrix[end][start] = 1;
     }
 
-    public void addEdges(String startLabel, String secondLabel, String... other) {
-        addEdge(startLabel, secondLabel);
-        for (String o : other) {
-            addEdge(startLabel, o);
+    public void addEdge(String startLabel, String endLabel, String... more) {
+        addEdge(startLabel, endLabel);
+        for (String s : more) {
+            addEdge(startLabel, s);
         }
     }
 
-    private int indexOf(String startLabel) {
-        for (int i = 0; i < vertexList.size(); i++) {
-            if (vertexList.get(i).getLabel().equals(startLabel)) {
-                return i;
-            }
-        }
-        return -1;
+    private int findIndex(String label) {
+        return vertexList.indexOf(new Vertex(label, true));
     }
 
-    public int getVertexSize() {
-        return vertexList.size();
+
+    public void findTheShortestWay(String start, String end) {
+        Vertex startVertex = vertexList.get(findIndex(start));
+        Vertex endVertex = vertexList.get(findIndex(end));
+        Queue<Vertex> queue = new ArrayDeque<>();
+        createPath(startVertex, endVertex, startVertex, queue);
     }
 
-    public void display() {
-        for (int i = 0; i < getVertexSize(); i++) {
-            System.out.println(vertexList.get(i));
-            for (int j = 0; j < getVertexSize(); j++) {
-                if (adjMatrix[i][j]) {
-                    System.out.println(" -> " + vertexList.get(j));
-                }
-            }
-            System.out.println();
-        }
-    }
+    private void createPath(Vertex start, Vertex end, Vertex root, Queue<Vertex> queue) {
+        start.visited = true;
+        queue.add(start);
 
-    private void resetVertexState() {
-        for (Vertex vertex : vertexList) {
-            vertex.setVisited(false);
-        }
-    }
-
-    private Vertex getNearUnvisitedVertex(Vertex peek) {
-        int peekIndex = vertexList.indexOf(peek);
-        for (int i = 0; i < getVertexSize(); i++) {
-            if (adjMatrix[peekIndex][i] && !vertexList.get(i).getVisited()) {
-                return vertexList.get(i);
-            }
-        }
-        return null;
-    }
-
-    // Depth-first search, DFS
-    public void dfs(String label) {
-        int startIndex = indexOf(label);
-        if (startIndex == -1) {
-            throw new IllegalArgumentException("invalid start label");
+        if (start.equals(end)) {
+            printPath(root, end.label);
+            return;
         }
 
-        Stack<Vertex> stack = new Stack<>();
-        Vertex vertex = vertexList.get(startIndex);
-        visitVertex(vertex, stack);
-    }
-
-    private void visitVertex(Vertex vertex, Stack<Vertex> stack) {
-        System.out.println(vertex);
-        stack.push(vertex);
-        vertex.setVisited(true);
-        while (!stack.isEmpty()) {
-            vertex = getNearUnvisitedVertex(stack.peek());
-            if (vertex != null) {
-                visitVertex(vertex, stack);
-            } else {
-                stack.pop();
-            }
-        }
-        resetVertexState();
-    }
-
-    // Breadth-first, BFS
-    public void bfs(String label) {
-        int startIndex = indexOf(label);
-        if (startIndex == -1) {
-            throw new IllegalArgumentException("invalid start label");
-        }
-        Queue<Vertex> queue = new LinkedList<>();
-        Vertex vertex = vertexList.get(startIndex);
-        visitVertex(vertex, queue);
-    }
-
-    private void visitVertex(Vertex vertex, Queue<Vertex> queue) {
-        System.out.println(vertex);
-        queue.add(vertex);
-        vertex.setVisited(true);
         while (!queue.isEmpty()) {
-            vertex = getNearUnvisitedVertex(queue.peek());
-            if (vertex != null) {
-                visitVertex(vertex, queue);
+            Vertex last = queue.peek();
+            int ind = getUnvisitedVertex(findIndex(last.label));
+            if (ind != -1) {
+                start = vertexList.get(ind);
+                start.previous = root;
+                createPath(start, end, root, queue);
             } else {
                 queue.remove();
+                root = queue.peek();
             }
         }
-        resetVertexState();
     }
 
-    public void findShortest(String start, String end) {
-        int startIndex = indexOf(start);
-        int endIndex = indexOf(end);
-
-        Queue<Node> queue = new LinkedList<>();
-        Vertex startV = vertexList.get(startIndex);
-        Vertex endV = vertexList.get(endIndex);
-
-        Node node = new Node(startV);
-
-        visitVertexAndShowPath(startV, endV, node, node, queue);
-    }
-
-    private void printPretty(Node root, String endPoint) {
+    private void printPath(Vertex root, String endPoint) {
         Stack<String> stack = new Stack<>();
-        Node curr = root;
+        Vertex curr = root;
         while (curr != null) {
-            stack.add(curr.getVertex().getLabel());
-            curr = curr.prevNode;
+            stack.add(curr.label);
+            curr = curr.previous;
         }
         while (!stack.isEmpty()) {
             System.out.print(stack.pop() + " -> ");
@@ -152,64 +113,62 @@ public class Graph {
         System.out.print(endPoint + "\n");
     }
 
-    private void visitVertexAndShowPath(Vertex startVertex,
-                                        Vertex endVertex,
-                                        Node root,
-                                        Node next,
-                                        Queue<Node> queue) {
-        queue.add(next);
-        next.vertex.setVisited(true);
+    public void dfs(String startLabel) {
+        Stack<Vertex> stack = new Stack<>();
+        Vertex start = vertexList.get(findIndex(startLabel));
+        start.visited = true;
+        System.out.println(start);
+        stack.push(start);
 
-        if (startVertex.getLabel().equals(endVertex.getLabel())) {
-            printPretty(root, endVertex.getLabel());
-            return;
-        }
-
-        while (!queue.isEmpty()) {
-            Vertex last = queue.peek().getVertex();
-            startVertex = getNearUnvisitedVertex(last);
-
-            if (startVertex != null) {
-                Node nd = new Node(startVertex);
-                nd.prevNode = root;
-                visitVertexAndShowPath(startVertex, endVertex, root, nd, queue);
+        while (!stack.isEmpty()) {
+            Vertex current = stack.peek();
+            int curInd = findIndex(current.label);
+            int unvisitedInd = getUnvisitedVertex(curInd);
+            if (unvisitedInd != -1) {
+                Vertex next = vertexList.get(unvisitedInd);
+                System.out.println(next);
+                next.visited = true;
+                stack.push(next);
             } else {
-                queue.remove();
-                root = queue.peek();
+                stack.pop();
             }
         }
-        resetVertexState();
+        resetState();
     }
 
-    private static class Node {
-        private final Vertex vertex;
-        private Node prevNode;
+    public void bfs(String startLabel) {
+        Queue<Vertex> queue = new ArrayDeque<>();
+        Vertex start = vertexList.get(findIndex(startLabel));
+        start.visited = true;
+        System.out.println(start);
+        queue.add(start);
 
-        public Node(Vertex curr) {
-            this.vertex = curr;
+        while (!queue.isEmpty()) {
+            Vertex current = queue.element();
+            int ind = getUnvisitedVertex(findIndex(current.label));
+            if (ind != -1) {
+                Vertex next = vertexList.get(ind);
+                next.visited = true;
+                System.out.println(next);
+                queue.add(next);
+            } else {
+                queue.poll();
+            }
         }
-
-        public Vertex getVertex() {
-            return vertex;
-        }
-
-        public Node getPrevNode() {
-            return prevNode;
-        }
-
-        @Override
-        public String toString() {
-//            StringBuilder sb = new StringBuilder();
-//            Node current = prevNode;
-//            while (current != null) {
-//                sb.append(vertex.getLabel()).append(" ");
-//                current = prevNode.getPrevNode();
-//            }
-//            return sb.toString();
-            return "";
-        }
-
+        resetState();
     }
 
+    private void resetState() {
+        vertexList.forEach(x -> x.visited = false);
+    }
+
+    private int getUnvisitedVertex(int ver){
+        for (int i = 0; i < vertexList.size(); i++) {
+            if(adjMatrix[ver][i] == 1 && !vertexList.get(i).visited){
+                return i;
+            }
+        }
+        return -1;
+    }
 
 }

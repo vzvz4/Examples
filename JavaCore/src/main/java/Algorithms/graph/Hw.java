@@ -1,34 +1,32 @@
 package Algorithms.graph;
 
 public class Hw {
-    public static void main(String[] args) {
-        Graph graph = new Graph(10);
-        graph.addVertex("Москва");
-        graph.addVertex("Тула");
-        graph.addVertex("Рязань");
-        graph.addVertex("Калуга");
-        graph.addVertex("Липецк");
-        graph.addVertex("Тамбов");
-        graph.addVertex("Орел");
-        graph.addVertex("Саратов");
-        graph.addVertex("Курск");
-        graph.addVertex("Воронеж");
+    public static void main(String[] args) throws NoSuchFieldException, IllegalAccessException {
+        Graph test = new Graph(6);
+        test.addVertex("A");
+        test.addVertex("B");
+        test.addVertex("C");
+        test.addVertex("D");
+        test.addVertex("E");
+        test.addVertex("F");
 
-        graph.addEdges("Москва", "Тула", "Рязань", "Калуга");
-        graph.addEdge("Тула", "Липецк");
-        graph.addEdge("Липецк", "Воронеж");
-        graph.addEdge("Рязань", "Тамбов");
-        graph.addEdge("Тамбов", "Саратов");
-        graph.addEdge("Саратов", "Воронеж");
-        graph.addEdge("Калуга", "Орел");
-        graph.addEdge("Орел", "Курск");
-        graph.addEdge("Курск", "Воронеж");
+        test.addEdge("A", "B", "C", "D");
+        test.addEdge("B", "E");
+        test.addEdge("E", "F");
 
-        graph.bfs("Москва");
+        //   / B - E - F
+        // A - C
+        //   \ D
 
-        System.out.println("-------------------------");
-        graph.findShortest("Москва", "Воронеж");
-        graph.findShortest("Тула", "Курск");
-        graph.findShortest("Саратов", "Орел");
+        // Expected A B E F C D
+        test.dfs("A");
+
+        System.out.println("----------------------");
+
+        // Expected A B C D E F
+        test.bfs("A");
+
+        // Expected C -> A -> D
+        test.findTheShortestWay("C", "D");
     }
 }

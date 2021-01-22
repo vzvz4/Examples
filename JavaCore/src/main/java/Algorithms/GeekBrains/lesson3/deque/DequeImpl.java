@@ -1,7 +1,7 @@
 package Algorithms.GeekBrains.lesson3.deque;
 
 
-import ru.geekbrains.ads.lesson3.myqueue.QueueImpl;
+import Algorithms.GeekBrains.lesson3.myqueue.QueueImpl;
 
 public class DequeImpl<E> extends QueueImpl<E> implements Deque<E> {
 

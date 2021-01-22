@@ -6,16 +6,11 @@ import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
+import java.util.Map;
+import java.util.TreeMap;
+
 public class Writer {
    public static void main(String[] args) {
-      String file = System.getProperty("user.home");
-      System.out.println(file);
-      Logger log = LogManager.getLogger(Writer.class);
-      PropertyConfigurator.configure("log4j2.properties");
-      try {
-         throw new RuntimeException("OOPS!!");
-      } catch (RuntimeException e) {
-         log.log(Level.OFF, e);
-      }
+      Map<String, String> map = new TreeMap<>();
    }
 }

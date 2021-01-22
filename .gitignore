@@ -15,3 +15,5 @@ atlassian-ide-plugin.xml
 
 # Editor-based Rest inheritance.Client
 .idea/httpRequests
+
+.project
