@@ -4,27 +4,23 @@ import java.util.*;
 
 public class Coller {
     public static void main(String[] args) {
-        HashMap<String, String> map = new HashMap<>();
-        map.put("S", "1");
-        map.put("C", "2");
-        map.put("B", "3");
+        Map<String, String> map = new HashMap<>();
+        map.put("id", "2");
+        map.put("name", "wallet");
 
-        HashMap<String, String> map2 = new HashMap<>();
-        map.put("G", "4");
-        map.put("H", "5");
-        map.put("J", "6");
+        Map<String, List<String>> filter = new HashMap<>();
+        filter.put("id", List.of("1", "2"));
+        filter.put("name", List.of("hive"));
 
-        List<Map<String, String>> l = new ArrayList<>();
-        l.add(map);
-        l.add(map2);
-
-        List<String> argsList = new ArrayList<>();
-        argsList.add("S");
-
-        l.forEach(x -> {
-            if (x.keySet().containsAll(argsList))
-                argsList.forEach(i -> System.out.println(x.get(i)));
-        });
-
+        for (Map.Entry<String, List<String>> entry : filter.entrySet()) {
+            Optional<Map.Entry<String, String>> opt =
+                    map.entrySet().stream()
+                            .filter(x -> entry.getValue().contains(x.getValue().toString()))
+                            .findAny();
+            if (opt.isEmpty()) {
+                System.out.println("Filtered");
+                break;
+            }
+        }
     }
 }

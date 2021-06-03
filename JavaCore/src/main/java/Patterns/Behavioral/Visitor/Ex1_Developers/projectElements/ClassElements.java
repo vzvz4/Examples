@@ -2,6 +2,7 @@ package Patterns.Behavioral.Visitor.Ex1_Developers.projectElements;
 
 import Patterns.Behavioral.Visitor.Ex1_Developers.developers.Developer;
 
+// Element to visit
 public class ClassElements implements ProjectElement {
 
     @Override

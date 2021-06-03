@@ -3,6 +3,7 @@ package Patterns.Behavioral.Visitor.Ex1_Developers.developers;
 import Patterns.Behavioral.Visitor.Ex1_Developers.projectElements.ClassElements;
 import Patterns.Behavioral.Visitor.Ex1_Developers.projectElements.TestElement;
 
+// Concrete visitor
 public class JuniorDeveloper implements Developer {
 
     @Override

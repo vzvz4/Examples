@@ -41,18 +41,10 @@ public class DataBaseHandler implements IDataBase {
         try {
             statement = con.createStatement();
             switch (q) {
-                case INSERT:
-                    statement.executeQuery(Query.insert(tableName, data));
-                    break;
-                case SELECT:
-                    readData(data);
-                    break;
-                case DELETE:
-                    statement.executeQuery(Query.delete(tableName, data));
-                    break;
-                case UPDATE:
-                    statement.executeQuery(Query.update(tableName, data));
-                    break;
+//                case INSERT -> statement.executeQuery(Query.insert(tableName, data));
+//                case SELECT -> readData(data);
+//                case DELETE -> statement.executeQuery(Query.delete(tableName, data));
+//                case UPDATE -> statement.executeQuery(Query.update(tableName, data));
             }
         } catch (SQLException e) {
             System.out.println(e.getMessage());

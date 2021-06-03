@@ -1,0 +1,4 @@
+/WINDOWS_C/ARCH/Examples/GRPC-server/src/main/java/org/owpk/App.java
+/WINDOWS_C/ARCH/Examples/GRPC-server/target/generated-sources/protobuf/grpc-java/org/owpk/grpc/GreetingServiceGrpc.java
+/WINDOWS_C/ARCH/Examples/GRPC-server/target/generated-sources/protobuf/java/org/owpk/grpc/Greeting.java
+/WINDOWS_C/ARCH/Examples/GRPC-server/src/main/java/org/owpk/GreetingServiceImpl.java

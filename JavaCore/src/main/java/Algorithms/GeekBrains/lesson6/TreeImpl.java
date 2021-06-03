@@ -160,10 +160,10 @@ public class TreeImpl<E extends Comparable<? super E>> implements Tree<E> {
     @Override
     public void traverse(TraverseMode mode, Consumer<E> action) {
         switch (mode) {
-            case IN_ORDER -> inOrder(root, action);
-            case PRE_ORDER -> preOrder(root, action);
-            case POST_ORDER -> postOrder(root, action);
-            default -> throw new IllegalArgumentException("Unknown traverse mode: " + mode);
+//            case IN_ORDER -> inOrder(root, action);
+//            case PRE_ORDER -> preOrder(root, action);
+//            case POST_ORDER -> postOrder(root, action);
+//            default -> throw new IllegalArgumentException("Unknown traverse mode: " + mode);
         }
     }
 

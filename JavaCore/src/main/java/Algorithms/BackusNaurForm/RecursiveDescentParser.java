@@ -24,7 +24,7 @@ public class RecursiveDescentParser {
         String exp = "3 + sin( 3 + 4 * ( 5 + 10 ) ) + sin( 10 * 3 + sin( 6 + 7 ) )";
         RecursiveDescentParser recursiveDescentParser = new RecursiveDescentParser(exp.split("\\s"));
         System.out.println(recursiveDescentParser.expressive());
-        System.out.println(3 + Math.sin( 3 + 4 * ( 5 + 10 ) ) + Math.sin( 10 * 3 + Math.sin( 6 + 7 ) ));
+        System.out.println(3 + Math.sin(3 + 4 * (5 + 10)) + Math.sin(10 * 3 + Math.sin(6 + 7)));
     }
 
     // E
@@ -37,7 +37,7 @@ public class RecursiveDescentParser {
             } else pos++;
             double second = term();
             if (operator.equals("+")) {
-               first += second;
+                first += second;
             } else first -= second;
         }
         return first;
@@ -62,14 +62,13 @@ public class RecursiveDescentParser {
     // F
     private double factor() {
         String next = tokens[pos];
-         double result;
+        double result;
         if (next.equals("sin(")) {
             pos++;
             result = Math.sin(expressive());
             pos++;
             return result;
-        }
-        else if (next.equals("(")) {
+        } else if (next.equals("(")) {
             pos++;
             result = expressive();
             String closingBracket = tokens[pos];
@@ -81,5 +80,4 @@ public class RecursiveDescentParser {
         pos++;
         return Double.parseDouble(next);
     }
-
 }
